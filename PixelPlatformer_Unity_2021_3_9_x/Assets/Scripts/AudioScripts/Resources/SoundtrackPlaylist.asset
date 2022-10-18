@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ae2719df7b33b1418c54ca64444176a, type: 3}
+  m_Name: SoundtrackPlaylist
+  m_EditorClassIdentifier: 
+  tracks:
+  - Name: Menu
+    MusicClip: {fileID: 8300000, guid: 25abe82920d5570468dcada482fa8c37, type: 3}
+  - Name: WorldMap
+    MusicClip: {fileID: 8300000, guid: fa41cae8747b42640b80410d783bc118, type: 3}
+  - Name: Level_1_1
+    MusicClip: {fileID: 8300000, guid: 0fa9643583d910d498bc3ec4c854bde3, type: 3}
+  - Name: IntroJingle
+    MusicClip: {fileID: 8300000, guid: fb5b854de137db44f8521da40c21e2b5, type: 3}
+  - Name: WinJingle
+    MusicClip: {fileID: 8300000, guid: 37c9a58d92751c84e960ddf562d09ce5, type: 3}
+  - Name: Level_1_2
+    MusicClip: {fileID: 8300000, guid: 83dae42ac020a4f40b88b7531a6b2904, type: 3}
+  - Name: Level_1_3
+    MusicClip: {fileID: 8300000, guid: 0317759fa1fb06b4fb7c67ffd7e9416c, type: 3}

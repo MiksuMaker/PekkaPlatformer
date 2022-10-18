@@ -1,0 +1,7799 @@
+fileFormatVersion: 2
+guid: c33b4ff77a4a2f54f99df06e83a6dbee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BreakingBricks1
+  - first:
+      213: 21300002
+    second: SolidTile1
+  - first:
+      213: 21300004
+    second: BaseTerrain_top
+  - first:
+      213: 21300006
+    second: BaseTerrain_outer_left
+  - first:
+      213: 21300008
+    second: BaseTerrain_outer_right
+  - first:
+      213: 21300010
+    second: BaseTerrain_left
+  - first:
+      213: 21300012
+    second: BaseTerrain_right
+  - first:
+      213: 21300014
+    second: BaseTerrain_center
+  - first:
+      213: 21300016
+    second: BaseTerrain_inner_left
+  - first:
+      213: 21300018
+    second: BaseTerrain_inner_right
+  - first:
+      213: 21300020
+    second: GreenHill_outer_left
+  - first:
+      213: 21300022
+    second: GreenHill_top
+  - first:
+      213: 21300024
+    second: GreenHill_outer_right
+  - first:
+      213: 21300026
+    second: GreenHill_left
+  - first:
+      213: 21300028
+    second: GreenHill_right
+  - first:
+      213: 21300030
+    second: GreenHill_center
+  - first:
+      213: 21300032
+    second: BlackTile
+  - first:
+      213: 21300034
+    second: BlackToSky
+  - first:
+      213: 21300036
+    second: Sea1
+  - first:
+      213: 21300038
+    second: Sea2
+  - first:
+      213: 21300040
+    second: Sea3
+  - first:
+      213: 21300042
+    second: Sea4
+  - first:
+      213: 21300044
+    second: Sea5
+  - first:
+      213: 21300046
+    second: Sea6
+  - first:
+      213: 21300048
+    second: GreenHillSlope_left30
+  - first:
+      213: 21300050
+    second: GreenHillSlope_right30
+  - first:
+      213: 21300052
+    second: GreenHillSlope_left45
+  - first:
+      213: 21300054
+    second: GreenHillSlope_right45
+  - first:
+      213: 21300056
+    second: GreenHillSlope_topLeft
+  - first:
+      213: 21300058
+    second: GreenHillSlope_topRight
+  - first:
+      213: 21300060
+    second: GreenHillSlope_top
+  - first:
+      213: 21300062
+    second: GreenHillSlope_left
+  - first:
+      213: 21300064
+    second: GreenHillSlope_right
+  - first:
+      213: 21300066
+    second: GreenHillSlope_center
+  - first:
+      213: 21300068
+    second: BrickPiece
+  - first:
+      213: 21300070
+    second: WaterDrop
+  - first:
+      213: 21300072
+    second: Score_100
+  - first:
+      213: 21300074
+    second: Score_300
+  - first:
+      213: 21300076
+    second: Score_500
+  - first:
+      213: 21300078
+    second: Score_1000
+  - first:
+      213: 21300080
+    second: FlagPoleKnob
+  - first:
+      213: 21300082
+    second: FlagPole
+  - first:
+      213: 21300084
+    second: BaddieFlag1
+  - first:
+      213: 21300086
+    second: BaddieFlag2
+  - first:
+      213: 21300088
+    second: BaddieFlag3
+  - first:
+      213: 21300090
+    second: BaddieFlag4
+  - first:
+      213: 21300092
+    second: BaddieFlag5
+  - first:
+      213: 21300094
+    second: BaddieFlag6
+  - first:
+      213: 21300096
+    second: BaddieFlag7
+  - first:
+      213: 7537764765328559326
+    second: AnimatedClouds_up_left_2
+  - first:
+      213: -9102585367334775336
+    second: AnimatedClouds_up_left_1
+  - first:
+      213: -5222405088594909847
+    second: WhiteTile
+  - first:
+      213: -943782961186013159
+    second: WaterFall_1
+  - first:
+      213: -6426620504066443806
+    second: WaterFall_2
+  - first:
+      213: -6502188884045230397
+    second: WaterFall_3
+  - first:
+      213: 4745792805631210686
+    second: Sea_fill
+  - first:
+      213: 8243827572898342675
+    second: Clouds_big_1
+  - first:
+      213: 3745340179281099180
+    second: Clouds_big_2
+  - first:
+      213: 4467851749312999233
+    second: GrassyStoneGr_straight
+  - first:
+      213: 8600856033973721663
+    second: Woods_upper_inner_left
+  - first:
+      213: 6559886472768082074
+    second: Woods_upper_outer_left
+  - first:
+      213: 1645337463770158990
+    second: Woods_upper_outer_right
+  - first:
+      213: -4415803405878414273
+    second: Woods_upper_inner_right
+  - first:
+      213: 353112812150771771
+    second: WoodsAndMenuSpriteSheet_0
+  - first:
+      213: 4483111973550510048
+    second: Woods_lower_outer_right
+  - first:
+      213: -1887382858555389611
+    second: Woods_lower_outer_left
+  - first:
+      213: 303117437170750735
+    second: Woods_big_tree_trunk1
+  - first:
+      213: -2633261076658466206
+    second: Woods_tree_trunk_branch1
+  - first:
+      213: -8610005599207143637
+    second: Woods_bottom_straight_big
+  - first:
+      213: -6169764622632577695
+    second: Woods_big_tree_trunk_to_foli_1
+  - first:
+      213: 8431000138317490456
+    second: Woods_branches_to_foliage1
+  - first:
+      213: -2908598921611546876
+    second: Striped_hill_top
+  - first:
+      213: -4053230770961829132
+    second: Striped_hill_straight
+  - first:
+      213: -4743778868560412667
+    second: BigPyramid_1_bg
+  - first:
+      213: -1419325882084170654
+    second: Woods_top_straight_big
+  - first:
+      213: 2740368059249663132
+    second: Woods_top_straight_small
+  - first:
+      213: -4866961001123539779
+    second: Woods_bottom_straight_small
+  - first:
+      213: 8267904151228162756
+    second: Woods_left
+  - first:
+      213: 7925319103883390372
+    second: Woods_tree_trunk_branch2
+  - first:
+      213: -4918813215369665623
+    second: Woods_right
+  - first:
+      213: 8688867212861815410
+    second: Woods_green_fill
+  - first:
+      213: 518637772597257585
+    second: Woods_lower_inner_right
+  - first:
+      213: 518637772597257585
+    second: Woods_lower_inner_left
+  - first:
+      213: 7848790974427691163
+    second: Woods_big_tree_trunk2
+  - first:
+      213: 1114504843496527181
+    second: Woods_tree_trunk_straight
+  - first:
+      213: 938927810500065070
+    second: BgBigHills
+  - first:
+      213: -4490391407209573041
+    second: Bush1
+  - first:
+      213: 8036395914759953843
+    second: GrassWave1
+  - first:
+      213: -1613896919977431277
+    second: GrassWave2
+  - first:
+      213: 8314992405930085924
+    second: GrassWave3
+  - first:
+      213: -7453110722266930438
+    second: CloudSmiling1
+  - first:
+      213: 6671062339550334029
+    second: RedPipeBig
+  - first:
+      213: -4338623023987216428
+    second: ByramidCyan1
+  - first:
+      213: 8539101636755044053
+    second: PyramidCyan2
+  - first:
+      213: 1076815796683326690
+    second: Vine_straight
+  - first:
+      213: 1726683072318402682
+    second: Vine_top
+  - first:
+      213: -4536421535403877184
+    second: BouncingFlowerRed_1
+  - first:
+      213: -7754218897233589661
+    second: BouncingFlowerRed_2
+  - first:
+      213: -9195278164287977967
+    second: BouncingFlowerBlue_1
+  - first:
+      213: -6185522083075152258
+    second: BouncingFlowerBlue_2
+  - first:
+      213: 1133828293034365313
+    second: BouncingFlowerYellow_1
+  - first:
+      213: -8493299763873271151
+    second: BouncingFlowerYellow_2
+  - first:
+      213: 7188943365900154078
+    second: Big_flag_1
+  - first:
+      213: -1538607988097642316
+    second: Big_flag_2
+  - first:
+      213: 2055049872629697861
+    second: Big_flag_3
+  - first:
+      213: -4389198012085572724
+    second: Big_flag_4
+  - first:
+      213: -1178036704558683968
+    second: Big_flag_5
+  - first:
+      213: -5514848476692606443
+    second: Big_flag_6
+  - first:
+      213: -7852200967743703470
+    second: Big_flag_7
+  - first:
+      213: -5882170695943828418
+    second: Water_1
+  - first:
+      213: 7591774343886807129
+    second: Water_2
+  - first:
+      213: 8088830456793213489
+    second: Water_3
+  - first:
+      213: 4177692092066526168
+    second: Water_4
+  - first:
+      213: 8954592487278907307
+    second: Water_5
+  - first:
+      213: -4906324669642958461
+    second: Water_6
+  - first:
+      213: -4272997025716492783
+    second: Water_7
+  - first:
+      213: -7504709878752999052
+    second: Water_8
+  - first:
+      213: 2617095626538263812
+    second: AnimatedClouds_up_right_1
+  - first:
+      213: -6258505543545769176
+    second: AnimatedClouds_up_right_2
+  - first:
+      213: 2673382145382457798
+    second: AnimatedClouds_down_left_1
+  - first:
+      213: -3165399383082371990
+    second: AnimatedClouds_down_left_2
+  - first:
+      213: -2371348256245031005
+    second: AnimatedClouds_down_right_1
+  - first:
+      213: -576640675421405625
+    second: AnimatedClouds_down_right_2
+  - first:
+      213: 4744088022178124109
+    second: BigAnimatedCloud_up_left_1
+  - first:
+      213: -2127377047739311565
+    second: BigAnimatedCloud_up_left_2
+  - first:
+      213: -7176443740091581886
+    second: BigAnimatedCloud_up_right_1
+  - first:
+      213: 5423043967018012973
+    second: BigAnimatedCloud_up_right_2
+  - first:
+      213: 4450124135514521694
+    second: BigAnimatedCloud_down_left_1
+  - first:
+      213: 4038898715841048909
+    second: BigAnimatedCloud_down_left_2
+  - first:
+      213: 6886321743110590322
+    second: BigAnimatedCloud_down_right_1
+  - first:
+      213: 3738571933822800030
+    second: BigAnimatedCloud_down_right_2
+  - first:
+      213: -975436053377147582
+    second: Striped_column_32_top
+  - first:
+      213: 1317529036841370561
+    second: Striped_column_32_base
+  - first:
+      213: 5721127265056468125
+    second: Striped_column_16_top
+  - first:
+      213: 2246402408905404080
+    second: Striped_column_16_base
+  - first:
+      213: -8699547251026143493
+    second: RockyCliff_top
+  - first:
+      213: 5899919110047582451
+    second: RockyCliff_top_left
+  - first:
+      213: -7640405916095668680
+    second: RockyCliff_left
+  - first:
+      213: -4681276049395604122
+    second: RockyCliff_center
+  - first:
+      213: 7506348024426488489
+    second: RockyCliff_top_right
+  - first:
+      213: 6832183109364140288
+    second: RockyCliff_right
+  - first:
+      213: -8843228988710537938
+    second: SmallRock
+  - first:
+      213: -8332840428495343306
+    second: BigRock
+  - first:
+      213: 6562446845116950761
+    second: CornerGrass_right_1
+  - first:
+      213: -2651532353977892657
+    second: CornerGrass_right_2
+  - first:
+      213: 7995218666708892522
+    second: RockSlab_big
+  - first:
+      213: 127757146426508143
+    second: RockSlab_shadow_top_right
+  - first:
+      213: -7151414181187073590
+    second: RockFormationBg_1
+  - first:
+      213: -34065251374631709
+    second: RockFormationBg_2
+  - first:
+      213: 1128195751363773341
+    second: RockSlab_shadow_right
+  - first:
+      213: -4536421535403877184
+    second: GrassyLandsSpriteSheet_0
+  - first:
+      213: -7754218897233589661
+    second: GrassyLandsSpriteSheet_1
+  - first:
+      213: 2580415842995102104
+    second: RockSlab_shadow_2
+  - first:
+      213: -8862870059958293225
+    second: RockSlab_left_top
+  - first:
+      213: 6694073496195818700
+    second: RockSlab_top_3
+  - first:
+      213: 4265073798489654168
+    second: RockSlab_right_top
+  - first:
+      213: 3038786069512098068
+    second: RockSlab_top_1
+  - first:
+      213: 1941524629123637646
+    second: RockSlab_top_2
+  - first:
+      213: -4530977109714458652
+    second: RockSlab_left_1
+  - first:
+      213: -9162988083855045366
+    second: RockSlab_right_1
+  - first:
+      213: 1855586690606726685
+    second: RockSlab_left_2
+  - first:
+      213: -6716014280218190886
+    second: RockSlab_right_2
+  - first:
+      213: 1075673118580629897
+    second: RockSlab_shadow_top_1
+  - first:
+      213: 1022256810264586760
+    second: RockSlab_shadow_top_2
+  - first:
+      213: 7026015355114564225
+    second: RockSlab_shadow_plain
+  - first:
+      213: -4571103640308049989
+    second: RockSlab_shadow_end
+  - first:
+      213: 9087316934407601338
+    second: CornerGrass_left_1
+  - first:
+      213: 1528388690784410745
+    second: CornerGrass_left_2
+  - first:
+      213: -2066869475962965279
+    second: Bush1_1
+  - first:
+      213: 4984433785518341065
+    second: Bush1_2
+  - first:
+      213: 6362668639817587604
+    second: Bush1_3
+  - first:
+      213: 7812628419834142654
+    second: RockyBrownCliff_top_left
+  - first:
+      213: -1364385032094923828
+    second: RockyBrownCliff_left
+  - first:
+      213: -8093513455492519298
+    second: RockyBrownCliff_top
+  - first:
+      213: 3317451304957817051
+    second: RockyBrownCliff_center
+  - first:
+      213: 91288415512520223
+    second: RockyBrownCliff_right
+  - first:
+      213: -5044241970697876249
+    second: RockyBrownCliff_top_right
+  - first:
+      213: 7026015355114564225
+    second: SandyGround_top_left
+  - first:
+      213: -4181469008430916276
+    second: SandyGround_top
+  - first:
+      213: -1633128091420241389
+    second: SandyGround_top_right
+  - first:
+      213: 5226236638811527647
+    second: SandyGround_left
+  - first:
+      213: -8411232023973589548
+    second: SandyGround_center
+  - first:
+      213: 2429920598668628687
+    second: SandyGround_right
+  - first:
+      213: 6905099182008146619
+    second: SandyGround_bottom_left
+  - first:
+      213: -5692895945508867886
+    second: SandyGround_bottom
+  - first:
+      213: -1014666431185811183
+    second: SandyGround_bottom_right
+  - first:
+      213: 7124167864430659950
+    second: SandyBackground_left_shadow
+  - first:
+      213: 2488168427503029779
+    second: SandyBackground_center_shadow
+  - first:
+      213: -2887423943526630245
+    second: SandyBackground_right_shadow
+  - first:
+      213: 7694860135883072114
+    second: SandyBackground_left
+  - first:
+      213: 6222480217240808830
+    second: SandyBackground_center
+  - first:
+      213: -6693044382440384916
+    second: SandyBackground_right
+  - first:
+      213: -3543044838404721454
+    second: SandyBackground_rocktop_left
+  - first:
+      213: 2923762712344837802
+    second: SandyBackground_rocktop_center
+  - first:
+      213: 902109684679321533
+    second: SandyBackground_rocktop_right
+  - first:
+      213: -6354779473878353324
+    second: Castle_tower_top_left
+  - first:
+      213: 7875323531356412644
+    second: Castle_tower_top_right
+  - first:
+      213: -2668457149013459683
+    second: Castle_wall_shadow_right
+  - first:
+      213: -6025204701987001295
+    second: Castle_tower_right
+  - first:
+      213: 1478875688873243785
+    second: Castle_rampart_top_right
+  - first:
+      213: 4512739262602108136
+    second: Castle_tower_left
+  - first:
+      213: -808877250520402230
+    second: Castle_tower_top
+  - first:
+      213: 4102369511503909861
+    second: Castle_wall
+  - first:
+      213: -4894475670703143181
+    second: Castle_wall_shadow_left
+  - first:
+      213: -3707897551263594053
+    second: Castle_rampart_top
+  - first:
+      213: 5985881985697477347
+    second: Castle_rampart_top_left
+  - first:
+      213: -350477350198367136
+    second: Castle_door
+  - first:
+      213: -6942552598612288674
+    second: Castle_window
+  - first:
+      213: -5707556779490615688
+    second: Banner_1
+  - first:
+      213: -3987571945173802347
+    second: Banner_2
+  - first:
+      213: -6797645078505127338
+    second: Banner_3
+  - first:
+      213: -6737696420113712144
+    second: Banner_4
+  - first:
+      213: -2967969154247094898
+    second: Banner_5
+  - first:
+      213: -3915412679194772846
+    second: Banner_6
+  - first:
+      213: 7848379455364938897
+    second: Banner_7
+  - first:
+      213: 2562802008524580959
+    second: Bush2_1
+  - first:
+      213: -6020750385568265123
+    second: Bush2_2
+  - first:
+      213: 1467306492692366653
+    second: Bush2_3
+  - first:
+      213: -7563888858907045546
+    second: Bush2_4
+  - first:
+      213: 415803373674943076
+    second: Bush2_5
+  - first:
+      213: 9124256730386801176
+    second: MushRoom1_1
+  - first:
+      213: 2685249173869367569
+    second: MushRoom1_2
+  - first:
+      213: 3165172362783439447
+    second: MushRoom2_1
+  - first:
+      213: -631833554505026245
+    second: MushRoom2_2
+  - first:
+      213: -7182361898705885507
+    second: Flagpole
+  - first:
+      213: 3440002124448998440
+    second: Flagpole_end
+  - first:
+      213: -2321270364068584518
+    second: SandyGround_top_left_up
+  - first:
+      213: -6360621285034099864
+    second: SandyGround_top_right_up
+  - first:
+      213: 719338740724148332
+    second: ItemTile1
+  - first:
+      213: -7337042214090211044
+    second: ItemTile2
+  - first:
+      213: 4636378717648667242
+    second: ItemTile3
+  - first:
+      213: 1373057327015805128
+    second: ItemTile4
+  - first:
+      213: 7026015355114564225
+    second: ItemTile5
+  - first:
+      213: 5004136341731321510
+    second: SandyBackground_rocktop_45left
+  - first:
+      213: 7685558956711941442
+    second: SandyBackground_rocktop_45right
+  - first:
+      213: -6998881387295262873
+    second: BlackSandBg
+  - first:
+      213: 2708360072868367981
+    second: SandyBackground_rocktop_30left
+  - first:
+      213: 8498418083347182346
+    second: SandyBackground_rocktop_30right
+  - first:
+      213: 366558926311652372
+    second: RopeLadder_top
+  - first:
+      213: 6735568968409048741
+    second: RopeLadder_middle
+  - first:
+      213: 8387233693532148724
+    second: RopeLadder_bottom
+  - first:
+      213: 7576016498529826916
+    second: SandyGround_inner_bottom_right
+  - first:
+      213: -7635797074558793616
+    second: SandyGround_inner_bottom_left
+  - first:
+      213: 7466899035424638805
+    second: SandyGround_bottom_45right
+  - first:
+      213: 7182251216599319008
+    second: SandyGround_bottom_45left
+  - first:
+      213: 335669701573151331
+    second: SandyGround_bottom_30right
+  - first:
+      213: -8692558389743817438
+    second: SandyGround_bottom_30left
+  - first:
+      213: -7859762208837981637
+    second: SandyGround_rocktop_left_up
+  - first:
+      213: -321102585972465252
+    second: SandyGround_rocktop_right_up
+  - first:
+      213: 6251148031045313854
+    second: SandyBackground_30deg_shadow
+  - first:
+      213: -1040977604429796440
+    second: RockyCliff_top_up_left
+  - first:
+      213: -579915800561119197
+    second: RockyCliff_top_up_right
+  - first:
+      213: -9206189868172210860
+    second: RockyBrownCliff_top_up_left
+  - first:
+      213: 5247374048532515540
+    second: RockyBrownCliff_top_up_right
+  - first:
+      213: -3651838734341778417
+    second: WaterFall_top_1
+  - first:
+      213: -4191222629829310005
+    second: WaterFall_top_2
+  - first:
+      213: 744648979109650952
+    second: WaterFall_top_3
+  - first:
+      213: 8522406335512348985
+    second: TallWavingGrass_1
+  - first:
+      213: 1542554953572025765
+    second: TallWavingGrass_2
+  - first:
+      213: -655704253770904883
+    second: TallWavingGrass_3
+  - first:
+      213: -5422063093274450913
+    second: BigPyramid_2_bg
+  - first:
+      213: 4453600274759176742
+    second: TopClouds_1
+  - first:
+      213: -4309728724149062824
+    second: Striped_hill_small_straight
+  - first:
+      213: 4736308599244039665
+    second: Striped_hill_small_top
+  - first:
+      213: -6282700165317727523
+    second: BgFarHills_1
+  - first:
+      213: 6594714457318654100
+    second: BgFarHills_2
+  - first:
+      213: 6849119956864847197
+    second: BgFarHills_3
+  - first:
+      213: 4205223988838064561
+    second: TallWavingGrass_left_1
+  - first:
+      213: 6497984808288904987
+    second: TallWavingGrass_left_2
+  - first:
+      213: -1259488989302494837
+    second: TallWavingGrass_left_3
+  - first:
+      213: 7026015355114564225
+    second: TinyGrassWave1
+  - first:
+      213: -4181469008430916276
+    second: TinyGrassWave2
+  - first:
+      213: -1633128091420241389
+    second: TinyGrassWave3
+  - first:
+      213: -5957759307136290490
+    second: Plant_1
+  - first:
+      213: 2005847097219151709
+    second: Plant_2
+  - first:
+      213: -5125403188992735369
+    second: Tulip_red_3
+  - first:
+      213: -6586367297892343757
+    second: TallWavingGrass_right_1
+  - first:
+      213: -8225288512213287670
+    second: TallWavingGrass_right_2
+  - first:
+      213: 7344844100616277117
+    second: TallWavingGrass_right_3
+  - first:
+      213: 8102329317800315814
+    second: TallWavingGrass_yellow_1
+  - first:
+      213: 2258049472081490321
+    second: TallWavingGrass_yellow_2
+  - first:
+      213: 1374938755231071900
+    second: TallWavingGrass_yellow_3
+  - first:
+      213: 5788585138733772255
+    second: TallWavingGrass_yellow_left_1
+  - first:
+      213: -5463144013867440864
+    second: TallWavingGrass_yellow_left_2
+  - first:
+      213: 4651505009189683999
+    second: TallWavingGrass_yellow_left_3
+  - first:
+      213: 6271192388918332142
+    second: TallWavingGrass_yellow_right_1
+  - first:
+      213: 4303532262957178390
+    second: TallWavingGrass_yellow_right_2
+  - first:
+      213: -8675128453601569095
+    second: TallWavingGrass_yellow_right_3
+  - first:
+      213: -6435799679980538936
+    second: CornerGrass_yellow_right_1
+  - first:
+      213: 4453964459975468958
+    second: CornerGrass_yellow_right_2
+  - first:
+      213: -8768107124852202029
+    second: CornerGrass_yellow_left_1
+  - first:
+      213: -2440299461117100296
+    second: CornerGrass_yellow_left_2
+  - first:
+      213: -3644039223723283039
+    second: BgHugeHills
+  - first:
+      213: -349007116205168229
+    second: SpiralCloud
+  - first:
+      213: 2402296374202684205
+    second: TinyGrassWave_yellow_1
+  - first:
+      213: -7420174460840421347
+    second: TinyGrassWave_yellow_2
+  - first:
+      213: -3714022927296397723
+    second: TinyGrassWave_yellow_3
+  - first:
+      213: -7331505441095383050
+    second: ShortGrassPlatform_left
+  - first:
+      213: -7722708090778545921
+    second: ShortGrassPlatform_center
+  - first:
+      213: 1933618502174352046
+    second: ShortGrassPlatform_right
+  - first:
+      213: 155149823758548141
+    second: GrassWave_yellow_1
+  - first:
+      213: -650128941331789963
+    second: GrassWave_yellow_2
+  - first:
+      213: -3756011452580438094
+    second: GrassWave_yellow_3
+  - first:
+      213: -7479677116013977257
+    second: MushRoom3_1
+  - first:
+      213: -8176173410218759457
+    second: MushRoom3_2
+  - first:
+      213: -8521753567929633205
+    second: MushRoom4_1
+  - first:
+      213: -3826712059635933809
+    second: MushRoom4_2
+  - first:
+      213: 2943667093406463417
+    second: BgRocks_center_1
+  - first:
+      213: 1958066929925520053
+    second: BgRocks_top_right_1
+  - first:
+      213: 2927327362054608469
+    second: BgRocks_top_left_1
+  - first:
+      213: -4036582891984007554
+    second: BgRocks_center_4
+  - first:
+      213: -3729593158633711716
+    second: BgRocks_center_7
+  - first:
+      213: 7130770455458544039
+    second: BgRocks_center_2
+  - first:
+      213: 7238747410925239651
+    second: BgRocks_top_right_2
+  - first:
+      213: -1205663062530323522
+    second: BgRocks_top_left_2
+  - first:
+      213: 6897146028806122302
+    second: BgRocks_center_5
+  - first:
+      213: -3117461934420529252
+    second: BgRocks_down_1
+  - first:
+      213: 1850901935504221281
+    second: BgRocks_center_3
+  - first:
+      213: -1813090572094332276
+    second: BgRocks_top_right_3
+  - first:
+      213: 241222984590749377
+    second: BgRocks_top_left_3
+  - first:
+      213: 7512599286306183763
+    second: BgRocks_center_6
+  - first:
+      213: 2754626073033070525
+    second: BgRocks_down_2
+  - first:
+      213: 7026015355114564225
+    second: BgRocks_center_8
+  - first:
+      213: 7026015355114564225
+    second: BgRocks_top_right_5
+  - first:
+      213: 4288851924110845613
+    second: BgRocks_top_right_5
+  - first:
+      213: -1050656581173830897
+    second: BgRocks_crossing_center
+  - first:
+      213: 5932460088483048831
+    second: BgRocks_crossing_top
+  - first:
+      213: 4371170883085251880
+    second: Woods_top_narrow
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BreakingBricks1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96feb9db928631040b13855a3e83b40b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SolidTile1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952cab62dc751894d99756ea8169a975
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseTerrain_top
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a3f2c3469dd6b4ab0a6854b136fe91
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseTerrain_outer_left
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303c73ed4830e954fa4c3fb8b74ad3f1
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseTerrain_outer_right
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9dfae8ca25e3f4f84b726419a25102
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseTerrain_left
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0a5385dd2c02947ba18895dd660b2c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseTerrain_right
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0caad851ad43845812b25ef54d74fd
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseTerrain_center
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df8568703f6bac4da8a2a0f4745522f
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseTerrain_inner_left
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd33fe6d5153f374ebc8ad5b83ba05c8
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseTerrain_inner_right
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebe1b1340f269b4094b76c0cf0ad5a8
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHill_outer_left
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc746f5373d88924b915fa7fe068286c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHill_top
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadd897662b6bc143ac4a6171f171421
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHill_outer_right
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba193c89f5ce60438d62f145ab96c45
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHill_left
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadc5ae87f7fc234ebf8d0f1607c6fa7
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHill_right
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f234671022903a24e8705e9698d350a1
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHill_center
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4065d486ac62c9d4fa0dd75a1740b50e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHillSlope_left30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f76f2c14a2a2a4680f6de27916c6a2
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHillSlope_right30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e520e1d7cfe7c4da63a9d56ab17c21
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHillSlope_left45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7268b6dc1c15b864094c369e00fd57c4
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHillSlope_right45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46139f8b709a554da4915c5b129df86
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHillSlope_topLeft
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa8d8d4f5036b44bb785242f09f0340
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHillSlope_topRight
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1214b7e230c9a42aef92ae84e3b7dc
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHillSlope_top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f14436760478a54f8d9c7a4c6cef35a
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHillSlope_left
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db2cede9da82424aa80f690a63f740c
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHillSlope_right
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89778b5409ffe5745bab40d697bcee1f
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenHillSlope_center
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33d667c1121d6b42bbd2568b9fc6ed3
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickPiece
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26693a93024b7c4db0e28474ea4f863
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterDrop
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f354b8fcc6f534aac40c66c88f1a5a
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score_100
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5e7a797b86a5844957b38fdf005991
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score_300
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f444a8b134d5f2a418e0e3c071f7ff24
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score_500
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce48133f9ff2b4746a7476d650767fbf
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score_1000
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3e6afc59fba4f4eaff0f5c54b6d647
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedClouds_up_left_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdb9e8dfc8bf6c449d4c4b3588fd0b5
+      internalID: 7537764765328559326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedClouds_up_left_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3663a61211b1b55448e7c222aeb9a9cf
+      internalID: -9102585367334775336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFall_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7562d267500a8bf48a3815a486bdd5db
+      internalID: -943782961186013159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFall_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666ab5265d551344f9f9e7888d2952f1
+      internalID: -6426620504066443806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFall_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957fe9a4ed71a0844899272655751112
+      internalID: -6502188884045230397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds_big_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 48
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d8543a4a27ecb48a52191553be134d
+      internalID: 8243827572898342675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clouds_big_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 64
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a0f6d2a52afeb418a93e3f6f47e2f6
+      internalID: 3745340179281099180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassyStoneGr_straight
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd646cb0c5c23014f9eea60ae68ab149
+      internalID: 4467851749312999233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_upper_inner_left
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee03b40fd0bba24794a33672d2ea48f
+      internalID: 8600856033973721663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_upper_outer_left
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2914d38d6aad71b4d8e20b24aa1aaa1e
+      internalID: 6559886472768082074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_upper_outer_right
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfad4641f56d6b49b4a1caf88229b4e
+      internalID: 1645337463770158990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_upper_inner_right
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a920ab6df1bc3b242b7ec38aecbfb9ea
+      internalID: -4415803405878414273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodsAndMenuSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa7aa40ec2e521438725cd2ecc88649
+      internalID: 353112812150771771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_lower_outer_right
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b004f4672610d1479d437294b0cecdf
+      internalID: 4483111973550510048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_lower_outer_left
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06abce70671445e45905bd956e35699a
+      internalID: -1887382858555389611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_big_tree_trunk1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a63c92ebf25f4b45816fc37b879dc78
+      internalID: 303117437170750735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_tree_trunk_branch1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cd14f8c13dbe4468be461643f2df95
+      internalID: -2633261076658466206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_bottom_straight_big
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffb8214df8c3db468321d1fca1b1cef
+      internalID: -8610005599207143637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_big_tree_trunk_to_foli_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 48
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20ad50c33894ec4f9d59d31e756e84d
+      internalID: -6169764622632577695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_branches_to_foliage1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cce4d182217fb4abaf7fbcf2020d7b
+      internalID: 8431000138317490456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Striped_hill_top
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e287798ad8166547bc60611496858ec
+      internalID: -2908598921611546876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Striped_hill_straight
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74439a64ce90a51478f4f84d8260ff0b
+      internalID: -4053230770961829132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPyramid_1_bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 96
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d929652d8bbf85841a7e3f458c162492
+      internalID: -4743778868560412667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_top_straight_big
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0844aa0913caef9409199f5d0f563a20
+      internalID: -1419325882084170654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_top_straight_small
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7e97f20ef816e4ead4151027c6c6e9
+      internalID: 2740368059249663132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_bottom_straight_small
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb1fcf5aebdfdb4390f9ccf863b6ea4
+      internalID: -4866961001123539779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_left
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbb0b69cca77cc4d9bd8ad4b5e8c9be
+      internalID: 8267904151228162756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_tree_trunk_branch2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb95a95f6babc44a9f5d303391df906
+      internalID: 7925319103883390372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_right
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7b6aa65d23e9a4f81623ee75e11985
+      internalID: -4918813215369665623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_green_fill
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad84fde443f046142b32f6163e62af3e
+      internalID: 8688867212861815410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_lower_inner_right
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521309e2a188ee6478eb35e4c9df7923
+      internalID: 518637772597257585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_lower_inner_left
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f94ca9c3f5955748b43ad243be76472
+      internalID: 1605154576473472481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_big_tree_trunk2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08473effa44a81042a12be6af2d81e42
+      internalID: 7848790974427691163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_tree_trunk_straight
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a1836dee967a4f82e7f18ae9cc5cd
+      internalID: 1114504843496527181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 208
+        width: 32
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39972f1522562594c8c9e995c4a2b438
+      internalID: -4490391407209573041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassWave1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9364761cbc982478798552060db84c
+      internalID: 8036395914759953843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassWave2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77da3df8e87a7cd489450563f79e934c
+      internalID: -1613896919977431277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassWave3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1daaa34d4e2cc249bca9e87e2f126ea
+      internalID: 8314992405930085924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudSmiling1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 48
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82434460cdc64834d9d8451b56fd4d7d
+      internalID: -7453110722266930438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPipeBig
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e88b3b9b7ab684438c6a6b4b85243ca
+      internalID: 6671062339550334029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByramidCyan1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99413cf4bf49e284ea4fdc3eb9337861
+      internalID: -4338623023987216428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PyramidCyan2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568ce19eaa84e4b49b39101000470f28
+      internalID: 8539101636755044053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vine_straight
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50aa8bf001a7a2498136b6e9b891403
+      internalID: 1076815796683326690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vine_top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a87ac02ba503da4a8a21d739cea7d01
+      internalID: 1726683072318402682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BouncingFlowerRed_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 240
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67160f8d848f3a43b2c847919cd5240
+      internalID: -4536421535403877184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BouncingFlowerRed_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 240
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3dfd8b4005cce4d9467ff3c7220d16
+      internalID: -7754218897233589661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BouncingFlowerBlue_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122e41e479ce08f47b8ca16a7c3a53de
+      internalID: -9195278164287977967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BouncingFlowerBlue_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 224
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7071e406f90d028428e4cc3a39da3049
+      internalID: -6185522083075152258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BouncingFlowerYellow_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 208
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cfa0a513753524884b54a457a0c7ee
+      internalID: 1133828293034365313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BouncingFlowerYellow_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 208
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d873a7f0ec05914ca3c4a208738b21e
+      internalID: -8493299763873271151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_flag_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1f78aedc9eee04d8f34eb37a437b6b
+      internalID: 7188943365900154078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_flag_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f425cd9b60e8347ad54d1de396908a
+      internalID: -1538607988097642316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_flag_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3fd79049628fa419d814faa19351fb
+      internalID: 2055049872629697861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_flag_4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a0d3ec18ca47d41b0940679d74f10e
+      internalID: -4389198012085572724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_flag_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc24d0153893004487df14fbe806a89
+      internalID: -1178036704558683968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_flag_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 64
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713ed57c01c3cbe46ba558696fdfd6c9
+      internalID: -5514848476692606443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_flag_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d3b25e5ecb81946a389174d657203a
+      internalID: -7852200967743703470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524edd1e7bdabbd4eb7e1f2d690acf3b
+      internalID: -5882170695943828418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86a1ae9f170a944b99a02ae3018ff8c
+      internalID: 7591774343886807129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb3cccd98a42d448af31ba6ec4376f6
+      internalID: 8088830456793213489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe565b60972d64093a58b27ee0257e
+      internalID: 4177692092066526168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc6bd30bca58354eae36ea838655b4b
+      internalID: 8954592487278907307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baaebf392ec226469ba39ee3d61630c
+      internalID: -4906324669642958461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3445b36fba14847aa555dba4ee992d
+      internalID: -4272997025716492783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27429df10ddff1145876efc99fc8d7cf
+      internalID: -7504709878752999052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedClouds_up_right_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb26189643822d45b42c9ece3bc23e2
+      internalID: 2617095626538263812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedClouds_up_right_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a291fb0f518ceb847812f8ff026af24a
+      internalID: -6258505543545769176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedClouds_down_left_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6faf8c29c2332439a8f37c47ec27ec
+      internalID: 2673382145382457798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedClouds_down_left_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afec7363bff32284eaed07c81141117f
+      internalID: -3165399383082371990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedClouds_down_right_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a5cf90025074b47814361c4adc9a50
+      internalID: -2371348256245031005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimatedClouds_down_right_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc89ec7c918b5f44d9981d450d63e945
+      internalID: -576640675421405625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloud_up_left_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6681996a843934dbda3f729f152961
+      internalID: 4744088022178124109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloud_up_left_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29de9b456bead0942852b7d96e957b98
+      internalID: -2127377047739311565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloud_up_right_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5376db1091a994b895af9778066257
+      internalID: -7176443740091581886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloud_up_right_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb058d15a3e1a4c4e9abfbc2663b3995
+      internalID: 5423043967018012973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloud_down_left_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b607433008943b42a22861eeb6d307c
+      internalID: 4450124135514521694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloud_down_left_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6e6a6389722694f90ebac75c8e54ee
+      internalID: 4038898715841048909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloud_down_right_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4768310b5cdb5c4e99b5ba5a0f16302
+      internalID: 6886321743110590322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAnimatedCloud_down_right_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b59c1feb23c5f4c8ab19097c0174b5
+      internalID: 3738571933822800030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Striped_column_32_top
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d37d51ed09788942b484168e1863884
+      internalID: -975436053377147582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Striped_column_32_base
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15a34e1de6bbae499a154791dbc4c19
+      internalID: 1317529036841370561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Striped_column_16_top
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5916a052e6ff0439a355ffa3c54948
+      internalID: 5721127265056468125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Striped_column_16_base
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2110b0c52fd6d419bcafc28b209142
+      internalID: 2246402408905404080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyCliff_top
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d6578b91d409c458215c2165ea78f3
+      internalID: -8699547251026143493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyCliff_top_left
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ad77a56a5d7cf429d11a3a88ee1e37
+      internalID: 5899919110047582451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyCliff_left
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481fc10140d65c14ca00a98f4c5fefa9
+      internalID: -7640405916095668680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyCliff_center
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66746073536722245b3acd6a54909b51
+      internalID: -4681276049395604122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyCliff_top_right
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0236e27f82751f146aaf72131bcecb9b
+      internalID: 7506348024426488489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyCliff_right
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46937555a1f648b438242d6de5288262
+      internalID: 6832183109364140288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallRock
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621dc2bc873a033469d5e8f7ebeaa1c0
+      internalID: -8843228988710537938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigRock
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d99d078a7928d43a051f587367333d
+      internalID: -8332840428495343306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CornerGrass_right_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adf8a402be0bf04392ae58443650e3f
+      internalID: 6562446845116950761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CornerGrass_right_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 160
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6123fff66be40a469f86a1055b7d3a1
+      internalID: -2651532353977892657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_big
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3acff2ae457994ea30be63b10d616a
+      internalID: 7995218666708892522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_shadow_top_right
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b04e4640f99e944bc89d9a820038eb
+      internalID: 127757146426508143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFormationBg_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af233f28fc639b64ab493b27bae33d67
+      internalID: -7151414181187073590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockFormationBg_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dee0478c512bbd47838c242f43f483f
+      internalID: -34065251374631709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_shadow_right
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8baf8fb38f328449e56496b6bacfeb
+      internalID: 1128195751363773341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassyLandsSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da27bfee199d35c419ebb86f7de96d44
+      internalID: 2441986855352399113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassyLandsSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 31
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92be9e05d878e5c47b4dfd2790d9ed23
+      internalID: -4757459830947825641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36ee00fa89ad8546a702adc13335a68
+      internalID: 2580415842995102104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_left_top
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72870500a21d07b46bc424b5786112ab
+      internalID: -8862870059958293225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_top_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a73fb2035601498e147235f8cd0ec
+      internalID: 6694073496195818700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_right_top
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11306c5ab4af3d4d87845fe9d0409ee
+      internalID: 4265073798489654168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_top_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f68a28b969b45b4fb61defaee9cb665
+      internalID: 3038786069512098068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_top_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b367c4fac0a525741b634ecd4a4c26f3
+      internalID: 1941524629123637646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_left_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb592c8111d81f441a4b69ebeea523d7
+      internalID: -4530977109714458652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_right_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7967cdc8a13931a4198878037372305e
+      internalID: -9162988083855045366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_left_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182a511fe2ddebd4498438a57de81525
+      internalID: 1855586690606726685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_right_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96141b0c5bb4e6c448336ca9da7a6d4a
+      internalID: -6716014280218190886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_shadow_top_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaacad2ba1871743a9a6169b09f8775
+      internalID: 1075673118580629897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_shadow_top_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87342f686e2420c4d896acfc75dec1e3
+      internalID: 1022256810264586760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_shadow_plain
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc0a175b3ee0364ca999d9f1c1b589e
+      internalID: 7026015355114564225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockSlab_shadow_end
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac76a19c5219b44988062f4746fb7fe
+      internalID: -4571103640308049989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CornerGrass_left_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7910ca37cbdc9604cbd8db00ed1af4f1
+      internalID: 9087316934407601338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CornerGrass_left_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7709caaa06177a478517b3c1612102b
+      internalID: 1528388690784410745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush1_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 32
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920958706b7a2834a9039121c3db8821
+      internalID: -2066869475962965279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush1_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 32
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d004cb888606242aafd7747e99b694
+      internalID: 4984433785518341065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush1_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 32
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b8dbda6ab97904e823e605d1a67a82
+      internalID: 6362668639817587604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyBrownCliff_top_left
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1b25db22ebd2e449219daae6b1c530
+      internalID: 7812628419834142654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyBrownCliff_left
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573f7c14ff29e8242a752220ae9cb7c2
+      internalID: -1364385032094923828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyBrownCliff_top
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ba55f4c8d18f347b20cb14fb3ee05a
+      internalID: -8093513455492519298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyBrownCliff_center
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e825689950b147446a3b2b5dd30dd510
+      internalID: 3317451304957817051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyBrownCliff_right
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9803612c80ab9fd408b46471339967df
+      internalID: 91288415512520223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyBrownCliff_top_right
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8d0cf0f54434e498703e797632504d
+      internalID: -5044241970697876249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_top_left
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89edb4091d4218d46bce18abfedb91c6
+      internalID: -8579259923112431622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_top
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230a6a6ef9e9016479c53d2dacede743
+      internalID: -4181469008430916276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_top_right
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d021b1e0442a8594792a6827a04c8a6c
+      internalID: -1633128091420241389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_left
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410a98df8c2730441ac9807fe1ba0521
+      internalID: 5226236638811527647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_center
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678e7825afb729a42bd961721b812ceb
+      internalID: -8411232023973589548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_right
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6049efa617941449cc7c48485e8b3d
+      internalID: 2429920598668628687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d735a1c887d3524e8099faf0233e16b
+      internalID: 6905099182008146619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_bottom
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51859e305f7b2445aeca6f056bcd983
+      internalID: -5692895945508867886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861ac4d500aa29d49b3798b3323a50a0
+      internalID: -1014666431185811183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyBackground_left_shadow
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f3d2ae600b48d41bd98207a4ad84af
+      internalID: 7124167864430659950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyBackground_center_shadow
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16dbd22e449d7c4cbe8c8616908185a
+      internalID: 2488168427503029779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyBackground_right_shadow
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa63779eeda4c8478d50f57aa5e98c2
+      internalID: -2887423943526630245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyBackground_left
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d78cbad07c9e64eb405444195fed2f
+      internalID: 7694860135883072114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyBackground_center
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660f74d2d0bc28d49a34404609cb09b5
+      internalID: 6222480217240808830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyBackground_right
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474ff28700c6954abf4d902fe71ef7a
+      internalID: -6693044382440384916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyBackground_rocktop_left
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e3843658f405d44b13a7a96ac90377
+      internalID: -3543044838404721454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyBackground_rocktop_center
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bdd047381ccd842b8cb17b6122a151
+      internalID: 2923762712344837802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyBackground_rocktop_right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fda9f2d709df6448d38117fcaa64c7
+      internalID: 902109684679321533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_tower_top_left
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c642ab88f5535b6439d35ce99925fdb3
+      internalID: -6354779473878353324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_tower_top_right
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff8abf1754364e4085c512809a3dca5
+      internalID: 7875323531356412644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_wall_shadow_right
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332ef03389d5c1749a2d72d915533387
+      internalID: -2668457149013459683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_tower_right
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcd6fd0357ab104bad5e49f1c2ad4b9
+      internalID: -6025204701987001295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_rampart_top_right
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8afb8b42a879e4d886ff47bc468187
+      internalID: 1478875688873243785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_tower_left
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bab26251a3ab5f46952f66d67de8bd9
+      internalID: 4512739262602108136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_tower_top
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb07d97213fe234889086b2ada6303d
+      internalID: -808877250520402230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_wall
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0856a4812383fbe479075b020fbd16cd
+      internalID: 4102369511503909861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_wall_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1dad070dfe9d64ba1bf4ab1965948d
+      internalID: -4894475670703143181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_rampart_top
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014d68d49d8178c49b53a00550f5124d
+      internalID: -3707897551263594053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_rampart_top_left
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b8d9b187217a846bac2bfba7ef51cf
+      internalID: 5985881985697477347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_door
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34d8e1007e417a4481731e8eef9ac7a
+      internalID: -350477350198367136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_window
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828f6b4ec51f9354ebe85fbf0de3d90b
+      internalID: -6942552598612288674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1eaee03fd9ed64c910601a3058973a
+      internalID: -5707556779490615688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b8b00c41b105546907d2245af57353
+      internalID: -3987571945173802347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129ab11a4fd1e3142805e98b5c2c20d3
+      internalID: -6797645078505127338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748674d7cbf6eeb49b5d82442dcb8fc6
+      internalID: -6737696420113712144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 48
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ef985aaec168f43bec7304542fb969
+      internalID: -2967969154247094898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a36b42e2c8b74e47bc213a08e910edf
+      internalID: -3915412679194772846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 48
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d7a18fabf4abb4f881abdacadfb8a8
+      internalID: 7848379455364938897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush2_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032832c77ca211041aa8a6a3c4cf3421
+      internalID: 2562802008524580959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush2_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 144
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436b29abef8c5024aa2c0b3de937b8e7
+      internalID: -6020750385568265123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush2_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 144
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7dbab5b7cd0d84d8456fc58f118626
+      internalID: 1467306492692366653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush2_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 176
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3169b972eacd74c8a8830f4c35c545
+      internalID: -7563888858907045546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush2_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 176
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7f417a224eedf48a9ff0d4e276fab5
+      internalID: 415803373674943076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushRoom1_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087f39044b436d44da678ed5a3d0e260
+      internalID: 9124256730386801176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushRoom1_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9566b5ee5de3abc42a23ffda9920d48a
+      internalID: 2685249173869367569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushRoom2_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ed20579c3f52040b94bacc7963ac0c
+      internalID: 3165172362783439447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushRoom2_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bf780f3a4853d41ac9861ea6dcf0a9
+      internalID: -631833554505026245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagpole
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e854f6c08191d45b90d37d91fc5c65
+      internalID: -7182361898705885507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flagpole_end
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 8
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa6a8442cc1636408ba9955208d813a
+      internalID: 3440002124448998440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_top_left_up
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1743fcab4ddfb35458472f1b2ce513c4
+      internalID: -2321270364068584518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_top_right_up
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4364eb482cdd76248880f1ae93f9d661
+      internalID: -6360621285034099864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyBackground_rocktop_45left
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 15
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78b0b2fe2606594d8ff72321f6aec58
+      internalID: 5004136341731321510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyBackground_rocktop_45right
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 17
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b048f69fa5392604fb63487c284f995d
+      internalID: 7685558956711941442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackSandBg
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f61b10111c2e1843a1c292ad29e743c
+      internalID: -6998881387295262873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyBackground_rocktop_30left
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ec61ee3a335dc4cbc67aa3dbae479f
+      internalID: 2708360072868367981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyBackground_rocktop_30right
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d300708eb05eb42bed53c4c95ba466
+      internalID: 8498418083347182346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLadder_top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03f6e60a3533f34cb491742fabd6ef3
+      internalID: 366558926311652372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLadder_middle
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0558fd292191ea442acea339513971c6
+      internalID: 6735568968409048741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopeLadder_bottom
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56804f172f0062438ae5691ceed358f
+      internalID: 8387233693532148724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_inner_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef23c41a58bc504aada13b7b8e874b3
+      internalID: 7576016498529826916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_inner_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a822f0685527741b1e9dab37777828
+      internalID: -7635797074558793616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_bottom_45right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768c77f252fd927489783cfb5aecea0f
+      internalID: 7466899035424638805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_bottom_45left
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284ec3ec97c827340ae9aeefdc29d81f
+      internalID: 7182251216599319008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_bottom_30right
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a641d66a60659f34eac7465073de0002
+      internalID: 335669701573151331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_bottom_30left
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4331ab5589dcd6f47ae76f04acf3bd66
+      internalID: -8692558389743817438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_rocktop_left_up
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1e3350a24d0e7479608df8dbd1064c
+      internalID: -7859762208837981637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyGround_rocktop_right_up
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe884791e2578348a0807a4b937444a
+      internalID: -321102585972465252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandyBackground_30deg_shadow
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56480fb4fd96fee4fbabe13485da872c
+      internalID: 6251148031045313854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyCliff_top_up_left
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b0b0a5124ecda4cbb60b17f4eb07d9
+      internalID: -1040977604429796440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyCliff_top_up_right
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e00c609a3229214296880218a1f99dc
+      internalID: -579915800561119197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyBrownCliff_top_up_left
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47233bcfc67be9a478a7d1e91c0ed35f
+      internalID: -9206189868172210860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockyBrownCliff_top_up_right
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb741d039ae2ec4cbd3ec396f05c474
+      internalID: 5247374048532515540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFall_top_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5ef5dda0ff4664fb49516e5c1b6329
+      internalID: -3651838734341778417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFall_top_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dacde32d8af3814dbac0dbc664a30d2
+      internalID: -4191222629829310005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterFall_top_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f174aa7c44f2a4681e34d5a7f61c9b
+      internalID: 744648979109650952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3a0ccb053758d48bb04cc425d9fa7d
+      internalID: 8522406335512348985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef17b524bdf40e04f9d3233cc3792941
+      internalID: 1542554953572025765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebd1ea99fd0d2f47b0c0441b79b7ada
+      internalID: -655704253770904883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigPyramid_2_bg
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 48
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def81fefed589e8489276825e5ea454c
+      internalID: -5422063093274450913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopClouds_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 64
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014b52f92fcdfd44e9441549eebaa8f6
+      internalID: 4453600274759176742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Striped_hill_small_straight
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d47ac45d7850b42b8c9bf78b1d7f58
+      internalID: -4309728724149062824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Striped_hill_small_top
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95ddc27d3c0fe94bb4f154f6446a88f
+      internalID: 4736308599244039665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgFarHills_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e965a64b64b351c41a669ea0a3461244
+      internalID: -6282700165317727523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgFarHills_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcb805a3b9a9644086e5c7c2dd98e36
+      internalID: 6594714457318654100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgFarHills_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 64
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eae7cf38c0fda40ba6edbdcc6a7ec9
+      internalID: 6849119956864847197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_left_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263abf5ea59f8934aa5661b846ea3b02
+      internalID: 4205223988838064561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_left_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48ff5c1ec517d849b8bbdcc176145e5
+      internalID: 6497984808288904987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_left_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec94a873d5da0964b83ebae971bd388a
+      internalID: -1259488989302494837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyGrassWave1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 232
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cbc1ce527885543b88de19ce2ec90c
+      internalID: -5573721302807656025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyGrassWave2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 232
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30ec541831baba43854c041cb7de413
+      internalID: 5270510371891062987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyGrassWave3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 232
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fd6c6e6476ca8438b11645339473a1
+      internalID: 8257560585895140218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b77f838af357741ac1c2fef6b4f709
+      internalID: -5957759307136290490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 120
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f6e3d0c6ca1574381aac7bb75c959a
+      internalID: 2005847097219151709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_right_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e057aef3befcab4c9b72c8bbc26407e
+      internalID: -6586367297892343757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_right_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d76e61a19118d4e99d47c28d50ed53
+      internalID: -8225288512213287670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_right_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ced6abbcac1b204c80b7b7e643e9887
+      internalID: 7344844100616277117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_yellow_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8523d29a252c147a0eeed54cb54bef
+      internalID: 8102329317800315814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_yellow_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ecb88dd51091140b998fb24998d73c
+      internalID: 2258049472081490321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_yellow_3
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb525dcc2f38304d984ad5fb8d08a16
+      internalID: 1374938755231071900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_yellow_left_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dafddc720a0924ca403591ab32d2c7
+      internalID: 5788585138733772255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_yellow_left_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b341a39a24a35c44904b648c23aa759
+      internalID: -5463144013867440864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_yellow_left_3
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6329e104c3c96e2499fa890178f88572
+      internalID: 4651505009189683999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_yellow_right_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf13f48fe4bd3fa479811b021e538a2d
+      internalID: 6271192388918332142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_yellow_right_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e119c350535b4b34aa1dee6dc99399e3
+      internalID: 4303532262957178390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TallWavingGrass_yellow_right_3
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceec4841afd39741bddf3a5bcc3d630
+      internalID: -8675128453601569095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CornerGrass_yellow_right_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4e999eb063f8e47b08e640a8b399ef
+      internalID: -6435799679980538936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CornerGrass_yellow_right_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 240
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954d523ac70a3f346ba4d62970c2f410
+      internalID: 4453964459975468958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CornerGrass_yellow_left_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab336d445c677674391251580ff6b040
+      internalID: -8768107124852202029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CornerGrass_yellow_left_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 240
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8580db5478ec2c54dbac92e4ab554557
+      internalID: -2440299461117100296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgHugeHills
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 96
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41b85d5d9b2d7141946c0e4d4864a37
+      internalID: -3644039223723283039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiralCloud
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06923aede0909c74ba8d57d4c063cd07
+      internalID: -349007116205168229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyGrassWave_yellow_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 40
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b790ee6622001c4ab03cf916c3ed59e
+      internalID: 2402296374202684205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyGrassWave_yellow_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 40
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae63c0b561c3644da194408e064d2e4
+      internalID: -7420174460840421347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyGrassWave_yellow_3
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 40
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f8b2e126dabe141934735e2d074628
+      internalID: -3714022927296397723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShortGrassPlatform_left
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 32
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8751d5e24e317984a8a72099cdebdeb8
+      internalID: -7331505441095383050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShortGrassPlatform_center
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bab5f79d57e3f1499afbf13afa049d4
+      internalID: -7722708090778545921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShortGrassPlatform_right
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 32
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4970bb1be7aed4ba7a633f4ba0262e
+      internalID: 1933618502174352046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassWave_yellow_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b01f3e8c037054c91324f5c9911390
+      internalID: 155149823758548141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassWave_yellow_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aebc241ccd2121418cb3f9e52610c64
+      internalID: -650128941331789963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassWave_yellow_3
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7463f879c6224934b9bdd23f2d48db90
+      internalID: -3756011452580438094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushRoom3_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 24
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81598cf9c11ae694780f55f881360dca
+      internalID: -7479677116013977257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushRoom3_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 24
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db04727cb17f25499730eb07b606c14
+      internalID: -8176173410218759457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushRoom4_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 24
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc7f0e70558dbe489244f5a58e904ee
+      internalID: -8521753567929633205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushRoom4_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 24
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba27db088b99b41b5badbf9393dc3e
+      internalID: -3826712059635933809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_center_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff84130de6266646968314133e8a247
+      internalID: 2943667093406463417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_top_right_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c618235541e5f43bc099233bc90729
+      internalID: 1958066929925520053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_top_left_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2a8147eeffabc45a33a27316db3d49
+      internalID: 2927327362054608469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_center_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5b303fab8ad974a80599ed59936ac7
+      internalID: -4036582891984007554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_center_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335e0e7b1426a1c448fa823da458bc07
+      internalID: -3729593158633711716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_center_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccbb2c6ae25cbb45ab2fdef75ddca4e
+      internalID: 7130770455458544039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_top_right_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c5370e19e3f904c9ffe3f93c1bcad5
+      internalID: 7238747410925239651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_top_left_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321b137b88e08d143ad3c2964409241c
+      internalID: -1205663062530323522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_center_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1f73ea92ad8294ead4f87be2cc9e1e
+      internalID: 6897146028806122302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_down_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7adda2c297a20943a2a43430c09b6d4
+      internalID: -3117461934420529252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_center_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81b5bbb94d877342bf5f9221e178492
+      internalID: 1850901935504221281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_top_right_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ce55f966fb30148af90ac094faf2fe
+      internalID: -1813090572094332276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_top_left_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a2b3bbc13d0a0448c1b073b087aa6e
+      internalID: 241222984590749377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_center_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583c85cae27d0f44ba042de8e7a83b5e
+      internalID: 7512599286306183763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_down_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d9dc588903df841b87d7a86d235d74
+      internalID: 2754626073033070525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_center_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a5e06406901c44eb2c9a49b751c21d
+      internalID: -7291800256783116896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_top_right_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349426b6b1c272448ab0e01b15a865c5
+      internalID: 4288851924110845613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_top_right_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d65e65714b45cb419e97b7460639c3f
+      internalID: -2583296731010308960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_crossing_center
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b929b9e01f67e42baf9ddf1294ef71
+      internalID: -1050656581173830897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BgRocks_crossing_top
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdce579c509caed4b9a1503761ffd8d1
+      internalID: 5932460088483048831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woods_top_narrow
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72167d5130f6cc4c9dbe28916d7808f
+      internalID: 4371170883085251880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 547fd0371b9c0cc47aedf895597f0b02
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BgFarHills_2: 6594714457318654100
+      Water_2: 7591774343886807129
+      GreenHill_top: 21300022
+      BaseTerrain_inner_right: 21300018
+      BgRocks_down_2: 2754626073033070525
+      Striped_column_32_base: 1317529036841370561
+      AnimatedClouds_up_right_2: -6258505543545769176
+      AnimatedClouds_down_left_1: 2673382145382457798
+      RopeLadder_middle: 6735568968409048741
+      WaterFall_3: -6502188884045230397
+      Castle_wall_shadow_left: -4894475670703143181
+      BlackSandBg: -6998881387295262873
+      CornerGrass_yellow_right_2: 4453964459975468958
+      BaseTerrain_top: 21300004
+      BigAnimatedCloud_up_left_1: 4744088022178124109
+      Castle_door: -350477350198367136
+      GreenHill_right: 21300028
+      GreenHillSlope_right45: 21300054
+      Striped_column_32_top: -975436053377147582
+      ShortGrassPlatform_left: -7331505441095383050
+      BgRocks_top_left_3: 241222984590749377
+      SandyGround_inner_bottom_right: 7576016498529826916
+      BigAnimatedCloud_up_right_1: -7176443740091581886
+      Woods_right: -4918813215369665623
+      Banner_6: -3915412679194772846
+      BaseTerrain_right: 21300012
+      RockSlab_left_top: -8862870059958293225
+      TinyGrassWave_yellow_3: -3714022927296397723
+      BreakingBricks1: 21300000
+      RockyBrownCliff_right: 91288415512520223
+      TallWavingGrass_left_3: -1259488989302494837
+      Plant_1: -5957759307136290490
+      SandyBackground_right_shadow: -2887423943526630245
+      BgRocks_top_left_2: -1205663062530323522
+      GrassWave_yellow_2: -650128941331789963
+      BgRocks_top_right_5: -2583296731010308960
+      Bush1: -4490391407209573041
+      BaseTerrain_inner_left: 21300016
+      RockyBrownCliff_top: -8093513455492519298
+      CloudSmiling1: -7453110722266930438
+      Flagpole_end: 3440002124448998440
+      TinyGrassWave_yellow_2: -7420174460840421347
+      BgRocks_center_5: 6897146028806122302
+      SandyGround_top_right_up: -6360621285034099864
+      WaterFall_top_3: 744648979109650952
+      TallWavingGrass_right_2: -8225288512213287670
+      TallWavingGrass_yellow_2: 2258049472081490321
+      RockyBrownCliff_top_up_right: 5247374048532515540
+      MushRoom2_2: -631833554505026245
+      TallWavingGrass_yellow_1: 8102329317800315814
+      GreenHill_outer_right: 21300024
+      Striped_hill_straight: -4053230770961829132
+      Banner_5: -2967969154247094898
+      BgRocks_down_1: -3117461934420529252
+      RockyBrownCliff_top_up_left: -9206189868172210860
+      SandyGround_bottom_right: -1014666431185811183
+      SandyGround_bottom_30left: -8692558389743817438
+      GrassWave1: 8036395914759953843
+      Big_flag_1: 7188943365900154078
+      TallWavingGrass_left_2: 6497984808288904987
+      GrassWave3: 8314992405930085924
+      WoodsAndMenuSpriteSheet_0: 353112812150771771
+      CornerGrass_right_1: 6562446845116950761
+      BigPyramid_2_bg: -5422063093274450913
+      Woods_big_tree_trunk_to_foli_1: -6169764622632577695
+      MushRoom3_2: -8176173410218759457
+      TallWavingGrass_right_3: 7344844100616277117
+      AnimatedClouds_down_right_1: -2371348256245031005
+      SandyGround_right: 2429920598668628687
+      RockSlab_shadow_right: 1128195751363773341
+      Score_300: 21300074
+      RockyCliff_top_up_left: -1040977604429796440
+      Bush1_2: 4984433785518341065
+      RockSlab_shadow_top_2: 1022256810264586760
+      RockSlab_shadow_end: -4571103640308049989
+      Castle_tower_left: 4512739262602108136
+      RockyCliff_left: -7640405916095668680
+      Banner_1: -5707556779490615688
+      Bush2_1: 2562802008524580959
+      SandyGround_inner_bottom_left: -7635797074558793616
+      Vine_top: 1726683072318402682
+      Woods_top_straight_big: -1419325882084170654
+      SandyBackground_rocktop_left: -3543044838404721454
+      Castle_wall_shadow_right: -2668457149013459683
+      RockSlab_right_1: -9162988083855045366
+      Striped_hill_small_top: 4736308599244039665
+      BaseTerrain_outer_right: 21300008
+      Big_flag_7: -7852200967743703470
+      BgRocks_top_right_1: 1958066929925520053
+      Castle_rampart_top: -3707897551263594053
+      TallWavingGrass_2: 1542554953572025765
+      BgRocks_top_right_4: 4288851924110845613
+      PyramidCyan2: 8539101636755044053
+      RockSlab_left_2: 1855586690606726685
+      Score_1000: 21300078
+      GreenHill_outer_left: 21300020
+      GreenHillSlope_center: 21300066
+      Woods_lower_outer_right: 4483111973550510048
+      Big_flag_2: -1538607988097642316
+      GrassWave2: -1613896919977431277
+      SandyGround_bottom_45right: 7466899035424638805
+      Woods_branches_to_foliage1: 8431000138317490456
+      BgFarHills_3: 6849119956864847197
+      SandyBackground_left: 7694860135883072114
+      Clouds_big_2: 3745340179281099180
+      GreenHill_center: 21300030
+      Vine_straight: 1076815796683326690
+      RockyCliff_top_right: 7506348024426488489
+      BouncingFlowerRed_1: -4536421535403877184
+      MushRoom1_1: 9124256730386801176
+      SandyBackground_center: 6222480217240808830
+      SmallRock: -8843228988710537938
+      SandyGround_bottom: -5692895945508867886
+      Castle_wall: 4102369511503909861
+      Woods_top_straight_small: 2740368059249663132
+      BgRocks_center_6: 7512599286306183763
+      RockyCliff_top_up_right: -579915800561119197
+      Castle_rampart_top_right: 1478875688873243785
+      BigPyramid_1_bg: -4743778868560412667
+      RockSlab_shadow_top_right: 127757146426508143
+      SandyBackground_rocktop_right: 902109684679321533
+      Woods_bottom_straight_small: -4866961001123539779
+      MushRoom4_2: -3826712059635933809
+      Water_8: -7504709878752999052
+      TallWavingGrass_yellow_right_2: 4303532262957178390
+      BouncingFlowerYellow_1: 1133828293034365313
+      GrassyLandsSpriteSheet_0: 2441986855352399113
+      Bush2_5: 415803373674943076
+      SandyGround_rocktop_left_up: -7859762208837981637
+      GrassWave_yellow_1: 155149823758548141
+      GrassWave_yellow_3: -3756011452580438094
+      MushRoom4_1: -8521753567929633205
+      Woods_upper_outer_right: 1645337463770158990
+      Woods_bottom_straight_big: -8610005599207143637
+      Banner_2: -3987571945173802347
+      SandyGround_bottom_left: 6905099182008146619
+      SolidTile1: 21300002
+      Score_100: 21300072
+      BouncingFlowerRed_2: -7754218897233589661
+      BouncingFlowerYellow_2: -8493299763873271151
+      AnimatedClouds_up_right_1: 2617095626538263812
+      TinyGrassWave3: 8257560585895140218
+      BaseTerrain_left: 21300010
+      SandyBackground_rocktop_45left: 5004136341731321510
+      GreenHill_left: 21300026
+      CornerGrass_yellow_left_2: -2440299461117100296
+      BgHugeHills: -3644039223723283039
+      BgRocks_top_left_1: 2927327362054608469
+      RockyBrownCliff_center: 3317451304957817051
+      RockyBrownCliff_top_right: -5044241970697876249
+      BrickPiece: 21300068
+      Bush1_3: 6362668639817587604
+      WaterFall_top_2: -4191222629829310005
+      Castle_rampart_top_left: 5985881985697477347
+      Striped_hill_small_straight: -4309728724149062824
+      ShortGrassPlatform_center: -7722708090778545921
+      AnimatedClouds_up_left_1: -9102585367334775336
+      Water_4: 4177692092066526168
+      Woods_top_narrow: 4371170883085251880
+      GreenHillSlope_left45: 21300052
+      BgRocks_center_8: -7291800256783116896
+      Water_1: -5882170695943828418
+      BaseTerrain_outer_left: 21300006
+      BgFarHills_1: -6282700165317727523
+      RockSlab_big: 7995218666708892522
+      RockSlab_shadow_top_1: 1075673118580629897
+      SandyGround_bottom_30right: 335669701573151331
+      BgRocks_center_1: 2943667093406463417
+      RockSlab_left_1: -4530977109714458652
+      Big_flag_5: -1178036704558683968
+      RockyCliff_center: -4681276049395604122
+      Woods_lower_outer_left: -1887382858555389611
+      RockSlab_shadow_plain: 7026015355114564225
+      Flagpole: -7182361898705885507
+      AnimatedClouds_down_left_2: -3165399383082371990
+      SandyBackground_rocktop_30right: 8498418083347182346
+      BgRocks_crossing_top: 5932460088483048831
+      TallWavingGrass_left_1: 4205223988838064561
+      WaterFall_1: -943782961186013159
+      TallWavingGrass_right_1: -6586367297892343757
+      ShortGrassPlatform_right: 1933618502174352046
+      SandyGround_top_left_up: -2321270364068584518
+      ByramidCyan1: -4338623023987216428
+      RockFormationBg_1: -7151414181187073590
+      RockSlab_top_1: 3038786069512098068
+      TopClouds_1: 4453600274759176742
+      Big_flag_4: -4389198012085572724
+      BgRocks_top_right_2: 7238747410925239651
+      Bush2_3: 1467306492692366653
+      TinyGrassWave_yellow_1: 2402296374202684205
+      Water_7: -4272997025716492783
+      MushRoom1_2: 2685249173869367569
+      RopeLadder_bottom: 8387233693532148724
+      BigAnimatedCloud_up_right_2: 5423043967018012973
+      Woods_upper_inner_left: 8600856033973721663
+      BigAnimatedCloud_down_right_1: 6886321743110590322
+      AnimatedClouds_down_right_2: -576640675421405625
+      GreenHillSlope_topRight: 21300058
+      Castle_tower_top_left: -6354779473878353324
+      Water_6: -4906324669642958461
+      Striped_column_16_top: 5721127265056468125
+      SandyGround_center: -8411232023973589548
+      AnimatedClouds_up_left_2: 7537764765328559326
+      TallWavingGrass_yellow_3: 1374938755231071900
+      SandyGround_top_left: -8579259923112431622
+      Bush2_2: -6020750385568265123
+      BgRocks_center_4: -4036582891984007554
+      Plant_2: 2005847097219151709
+      RockSlab_top_3: 6694073496195818700
+      TallWavingGrass_3: -655704253770904883
+      BigRock: -8332840428495343306
+      Banner_4: -6737696420113712144
+      SpiralCloud: -349007116205168229
+      WaterFall_2: -6426620504066443806
+      BigAnimatedCloud_up_left_2: -2127377047739311565
+      RockyCliff_right: 6832183109364140288
+      Castle_window: -6942552598612288674
+      SandyBackground_rocktop_30left: 2708360072868367981
+      RockyCliff_top: -8699547251026143493
+      Water_3: 8088830456793213489
+      SandyGround_top_right: -1633128091420241389
+      BgRocks_top_right_3: -1813090572094332276
+      Castle_tower_right: -6025204701987001295
+      BaseTerrain_center: 21300014
+      Castle_tower_top_right: 7875323531356412644
+      Woods_upper_outer_left: 6559886472768082074
+      CornerGrass_yellow_right_1: -6435799679980538936
+      MushRoom3_1: -7479677116013977257
+      Banner_7: 7848379455364938897
+      GreenHillSlope_left: 21300062
+      Woods_tree_trunk_branch2: 7925319103883390372
+      Woods_tree_trunk_straight: 1114504843496527181
+      Woods_green_fill: 8688867212861815410
+      Bush2_4: -7563888858907045546
+      BigAnimatedCloud_down_right_2: 3738571933822800030
+      TallWavingGrass_yellow_left_3: 4651505009189683999
+      GreenHillSlope_top: 21300060
+      Water_5: 8954592487278907307
+      Bush1_1: -2066869475962965279
+      BgRocks_center_3: 1850901935504221281
+      Striped_hill_top: -2908598921611546876
+      MushRoom2_1: 3165172362783439447
+      TinyGrassWave2: 5270510371891062987
+      Woods_big_tree_trunk1: 303117437170750735
+      TallWavingGrass_yellow_right_1: 6271192388918332142
+      RopeLadder_top: 366558926311652372
+      Banner_3: -6797645078505127338
+      Score_500: 21300076
+      SandyBackground_rocktop_45right: 7685558956711941442
+      SandyBackground_right: -6693044382440384916
+      BigAnimatedCloud_down_left_2: 4038898715841048909
+      RockSlab_right_2: -6716014280218190886
+      BgRocks_center_2: 7130770455458544039
+      CornerGrass_left_2: 1528388690784410745
+      SandyBackground_center_shadow: 2488168427503029779
+      CornerGrass_left_1: 9087316934407601338
+      GreenHillSlope_right: 21300064
+      GrassyLandsSpriteSheet_1: -4757459830947825641
+      TinyGrassWave1: -5573721302807656025
+      BigAnimatedCloud_down_left_1: 4450124135514521694
+      GreenHillSlope_left30: 21300048
+      RedPipeBig: 6671062339550334029
+      CornerGrass_yellow_left_1: -8768107124852202029
+      Woods_lower_inner_left: 1605154576473472481
+      SandyBackground_30deg_shadow: 6251148031045313854
+      GrassyStoneGr_straight: 4467851749312999233
+      Woods_lower_inner_right: 518637772597257585
+      Castle_tower_top: -808877250520402230
+      RockyBrownCliff_top_left: 7812628419834142654
+      Clouds_big_1: 8243827572898342675
+      Woods_left: 8267904151228162756
+      RockSlab_right_top: 4265073798489654168
+      Woods_upper_inner_right: -4415803405878414273
+      BouncingFlowerBlue_2: -6185522083075152258
+      CornerGrass_right_2: -2651532353977892657
+      TallWavingGrass_1: 8522406335512348985
+      SandyGround_top: -4181469008430916276
+      BouncingFlowerBlue_1: -9195278164287977967
+      RockFormationBg_2: -34065251374631709
+      SandyBackground_rocktop_center: 2923762712344837802
+      TallWavingGrass_yellow_right_3: -8675128453601569095
+      GreenHillSlope_topLeft: 21300056
+      Big_flag_3: 2055049872629697861
+      SandyGround_rocktop_right_up: -321102585972465252
+      RockyBrownCliff_left: -1364385032094923828
+      Big_flag_6: -5514848476692606443
+      SandyBackground_left_shadow: 7124167864430659950
+      SandyGround_left: 5226236638811527647
+      RockSlab_shadow_2: 2580415842995102104
+      SandyGround_bottom_45left: 7182251216599319008
+      Striped_column_16_base: 2246402408905404080
+      TallWavingGrass_yellow_left_1: 5788585138733772255
+      RockyCliff_top_left: 5899919110047582451
+      Woods_big_tree_trunk2: 7848790974427691163
+      WaterDrop: 21300070
+      TallWavingGrass_yellow_left_2: -5463144013867440864
+      Woods_tree_trunk_branch1: -2633261076658466206
+      WaterFall_top_1: -3651838734341778417
+      RockSlab_top_2: 1941524629123637646
+      BgRocks_crossing_center: -1050656581173830897
+      BgRocks_center_7: -3729593158633711716
+      GreenHillSlope_right30: 21300050
+  spritePackingTag: level_tiles
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

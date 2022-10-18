@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - NoCollision
+  - Collectable
+  - IgnoreAllCollisions
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background_far
+    uniqueID: 2047781341
+    locked: 0
+  - name: Background_near
+    uniqueID: 819391379
+    locked: 0
+  - name: LevelTiles
+    uniqueID: 2915122961
+    locked: 0
+  - name: Collectables
+    uniqueID: 3657426967
+    locked: 0
+  - name: Enemies
+    uniqueID: 1958106779
+    locked: 0
+  - name: Players
+    uniqueID: 2854680889
+    locked: 0
+  - name: AlwaysOnTop
+    uniqueID: 4139125487
+    locked: 0

@@ -1,0 +1,5031 @@
+fileFormatVersion: 2
+guid: 5dd30807652ba3d4484782490997d9ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5546320513583112911
+    second: metal_plates_bg_basic
+  - first:
+      213: -6810073884907063008
+    second: metal_plates_bg_yellow
+  - first:
+      213: 6448286420387580920
+    second: scifi_light_1
+  - first:
+      213: 8325762144846493159
+    second: metal_platform_warning
+  - first:
+      213: -7951734585952922562
+    second: metal_platform_basic
+  - first:
+      213: -8687812189679211509
+    second: metal_platform_grill
+  - first:
+      213: 4158732434352698325
+    second: floor_1
+  - first:
+      213: -1457998028909188606
+    second: big_fan_1
+  - first:
+      213: -680340507548848105
+    second: big_fan_2
+  - first:
+      213: 5702101814997779268
+    second: big_fan_3
+  - first:
+      213: 6623719234781301212
+    second: door_1
+  - first:
+      213: 4744073622485524861
+    second: door_2
+  - first:
+      213: -8810169383252994586
+    second: door_3
+  - first:
+      213: 4026854748136317074
+    second: elevator_door_1
+  - first:
+      213: 6209516251378084387
+    second: elevator_door_2
+  - first:
+      213: 4414919513224858275
+    second: elevator_door_3
+  - first:
+      213: 1391809162320493855
+    second: bubbling_ooze_1
+  - first:
+      213: -3889698853940303438
+    second: bubbling_ooze_2
+  - first:
+      213: -2863946839140505516
+    second: bubbling_ooze_3
+  - first:
+      213: 7770800276852780524
+    second: bubbling_ooze_4
+  - first:
+      213: 5241546595136715462
+    second: bubbling_ooze_5
+  - first:
+      213: 2706549334984129446
+    second: bubbling_ooze_6
+  - first:
+      213: -1376925423289048318
+    second: bubbling_ooze_7
+  - first:
+      213: -7178649327354013745
+    second: bubbling_ooze_8
+  - first:
+      213: -5090346662492113183
+    second: airlock_5
+  - first:
+      213: 3333265266024726098
+    second: airlock_4
+  - first:
+      213: 3115263445039604264
+    second: airlock_3
+  - first:
+      213: -7391702403139062741
+    second: airlock_2
+  - first:
+      213: 1684838506320392437
+    second: airlock_1
+  - first:
+      213: 678075873992610140
+    second: small_fan_1
+  - first:
+      213: -2858394665087965342
+    second: small_fan_2
+  - first:
+      213: -5763336440503447760
+    second: small_fan_3
+  - first:
+      213: 2976641792620575895
+    second: floor_computer_1
+  - first:
+      213: 305599715472182535
+    second: floor_computer_2
+  - first:
+      213: -1468713807030091796
+    second: floor_computer_3
+  - first:
+      213: -2825593590670202118
+    second: floor_computer_4
+  - first:
+      213: -8662534564429206595
+    second: floor_computer_5
+  - first:
+      213: -7026716034830632954
+    second: floor_computer_6
+  - first:
+      213: -3247601881385353152
+    second: pedestal_down
+  - first:
+      213: -3597853218386935190
+    second: pedestal_up
+  - first:
+      213: 8822916971849066774
+    second: metal_platform_top_left
+  - first:
+      213: -8108150426243866377
+    second: metal_platform_bottom_left
+  - first:
+      213: -2144155634639191697
+    second: metal_platform_bottom_reinforced
+  - first:
+      213: 8113913568952603872
+    second: metal_platform_bottom_basic
+  - first:
+      213: 5535748491036604061
+    second: metal_platform_bottom_hatch
+  - first:
+      213: 5002530168867311728
+    second: metal_platform_bottom_panel
+  - first:
+      213: 7883822820610943256
+    second: metal_platform_bottom_right
+  - first:
+      213: 7132864878025650703
+    second: metal_platform_bottom_bolt
+  - first:
+      213: -4949231663068893369
+    second: cushioned_wall_shadow_top
+  - first:
+      213: 3062831724849935488
+    second: cushioned_wall
+  - first:
+      213: 9022186128613861328
+    second: elevator_shaft_left
+  - first:
+      213: -1405058824675106367
+    second: elevator_shaft_middle
+  - first:
+      213: 8225210900155600520
+    second: elevator_shaft_right
+  - first:
+      213: 5602006086224802333
+    second: wrinkled_pipe
+  - first:
+      213: -4450527562155357560
+    second: wrinkled_pipe_shadow_top
+  - first:
+      213: -595291804647830535
+    second: horizontal_wall_panel_bottom
+  - first:
+      213: 6097042308470305335
+    second: horizontal_wall_panel_shadow_top
+  - first:
+      213: -7564137628435096013
+    second: horizontal_wall_panel
+  - first:
+      213: -7473537992618875886
+    second: metal_plates_platform_shadow_left
+  - first:
+      213: -3383189667427683628
+    second: metal_plates_shadow_right
+  - first:
+      213: -4398030742714402893
+    second: big_pipe_vertical
+  - first:
+      213: 4806719871213727966
+    second: big_pipe_horizontal
+  - first:
+      213: 4172180577576616752
+    second: big_pipe_vertical_connection
+  - first:
+      213: 2113938546096224457
+    second: big_pipe_right_down
+  - first:
+      213: 9052746203105292307
+    second: big_pipe_horizontal_connection
+  - first:
+      213: -3171323165253602221
+    second: big_pipe_up_left
+  - first:
+      213: 4946952605805823956
+    second: metal_platform_top_reinforced
+  - first:
+      213: -6209610354104009324
+    second: metal_platform_top_basic
+  - first:
+      213: 1180722748131939948
+    second: metal_platform_top_hatch
+  - first:
+      213: 3707163251335579645
+    second: metal_platform_top_panel
+  - first:
+      213: -2260970484268141370
+    second: metal_platform_top_bolt
+  - first:
+      213: -5903240055907832248
+    second: metal_platform_top_bolt
+  - first:
+      213: 6947902439468698253
+    second: metal_plates_platform_shadow_mid
+  - first:
+      213: 3699569109899224962
+    second: metal_plates_platform_shadow_right
+  - first:
+      213: -2979130889782913674
+    second: metal_plates_window
+  - first:
+      213: -163695449675300624
+    second: metal_plates_text_01
+  - first:
+      213: 3916533193374836434
+    second: metal_plates_text_02
+  - first:
+      213: 6701440346454313348
+    second: metal_plates_text_03
+  - first:
+      213: 6986330021932096978
+    second: metal_plates_spotlight
+  - first:
+      213: 4736484087298839518
+    second: metal_plates_shadow_left
+  - first:
+      213: 8280462342490658828
+    second: metal_plates_beam_straight
+  - first:
+      213: -2309494570268478940
+    second: metal_plates_shadow_left_beam
+  - first:
+      213: 4686660418716664267
+    second: metal_plates_shadow_right_beam
+  - first:
+      213: 3943624855299984949
+    second: metal_plates_beam_curve_right
+  - first:
+      213: -4218575318417147061
+    second: metal_plates_yellow_end_right
+  - first:
+      213: -6017155200455978973
+    second: metal_plates_yellow_end_left
+  - first:
+      213: -1225032664742934177
+    second: wires_fuse_box
+  - first:
+      213: 6400211947384216386
+    second: wires_horizontal
+  - first:
+      213: -1278352712578573501
+    second: wires_over_bar
+  - first:
+      213: 7057017501099488757
+    second: wires_right_up
+  - first:
+      213: -2287777178036021818
+    second: wires_vertical
+  - first:
+      213: -923169278755138960
+    second: wires_fuse_vertical
+  - first:
+      213: -3163481166976247069
+    second: wires_up_left
+  - first:
+      213: -6042758797752180141
+    second: wires_down_right
+  - first:
+      213: -4561316065903750727
+    second: wires_up_right
+  - first:
+      213: 6100652598483257758
+    second: support_girder
+  - first:
+      213: -875478335371773807
+    second: big_pipe_down_left
+  - first:
+      213: 4337136203878490915
+    second: big_pipe_right_up
+  - first:
+      213: -7356674923392697203
+    second: big_plates_left
+  - first:
+      213: 1022654213522740207
+    second: big_plates_up_left
+  - first:
+      213: -2021046836187425379
+    second: big_plates_right
+  - first:
+      213: 7500800794874738204
+    second: big_plates_up_right
+  - first:
+      213: -451952740526168478
+    second: big_plates_down_left
+  - first:
+      213: 8253184252449298263
+    second: big_plates_down_right
+  - first:
+      213: 6830297732148631828
+    second: big_plates_ceiling
+  - first:
+      213: 3709065486553676361
+    second: big_plates_floor_hatch
+  - first:
+      213: 4281576457732230862
+    second: big_plates_inner_up_right
+  - first:
+      213: 7933984963004145189
+    second: big_plates_inner_up_left
+  - first:
+      213: 6289455425467120167
+    second: big_plates_end_left
+  - first:
+      213: -7985430405366465289
+    second: big_plates_end_right
+  - first:
+      213: -1710573012036843113
+    second: big_plates_floor
+  - first:
+      213: 8847292001813745925
+    second: big_plates_notch_left
+  - first:
+      213: -3141203518470568480
+    second: big_plates_notch_right
+  - first:
+      213: -5959567782167053401
+    second: big_plates_low_floor
+  - first:
+      213: -7075901552430055054
+    second: big_plates_left_hatch
+  - first:
+      213: -6757290581146940883
+    second: big_plates_end_right_straight
+  - first:
+      213: 1063265263218317422
+    second: big_plates_end_left_straight
+  - first:
+      213: 5088427556760590264
+    second: dark_bg_plate_top_shadow
+  - first:
+      213: 3320636587424477394
+    second: dark_bg_plate
+  - first:
+      213: -4765261273540780761
+    second: dark_bg_plate_tall_grill
+  - first:
+      213: -5748329996058284165
+    second: dark_plates_narrow
+  - first:
+      213: -7626357260700294229
+    second: wires_fuse_horizontal
+  - first:
+      213: -943166620297107248
+    second: bg_panel_1_wires
+  - first:
+      213: -4910126863438575475
+    second: bg_panel_2_text
+  - first:
+      213: -6453233266386450674
+    second: bg_panel_3_plain
+  - first:
+      213: 5789553365369119348
+    second: bg_panel_4_text
+  - first:
+      213: -4760039527363122694
+    second: bg_panel_5_grill
+  - first:
+      213: -650021539220894728
+    second: elevator_bg_top
+  - first:
+      213: 5196141984461721006
+    second: elevator_bg_mid
+  - first:
+      213: -4464263161504553692
+    second: elevator_bg_bottom
+  - first:
+      213: -720927306338366174
+    second: elevator_platfrom_left
+  - first:
+      213: -3385223599926568502
+    second: elevator_platfrom_mid
+  - first:
+      213: 7636977563156222583
+    second: elevator_platfrom_right
+  - first:
+      213: -4477968753815068039
+    second: checkered_floor
+  - first:
+      213: -5914823614877382583
+    second: chrome_cylinder_horizontal
+  - first:
+      213: -1776691655353223530
+    second: chrome_cylinder_vertical
+  - first:
+      213: -2794901401301559387
+    second: floor_warning
+  - first:
+      213: -3022308467068854035
+    second: press_right_mid
+  - first:
+      213: 6955654269383975161
+    second: press_right_top
+  - first:
+      213: 1388767449265012027
+    second: press_right_bottom
+  - first:
+      213: -4460921463912766329
+    second: press_left_mid
+  - first:
+      213: 1905490344664037202
+    second: press_left_top
+  - first:
+      213: -245026209789437209
+    second: press_left_bottom
+  - first:
+      213: -3034524746365259005
+    second: bg_panel_6
+  - first:
+      213: -4881442137907105852
+    second: double_pipes_horizontal
+  - first:
+      213: 1659558676859525675
+    second: double_pipes_vertical_connection
+  - first:
+      213: -4969890183722964782
+    second: double_pipes_t_down
+  - first:
+      213: -8749823017929495799
+    second: double_pipes_vertical
+  - first:
+      213: -673832212940443659
+    second: double_pipes_t_up
+  - first:
+      213: 40574200140874832
+    second: big_pipe_t_down_double
+  - first:
+      213: 2996992623220334846
+    second: double_pipes_horizontal_connection
+  - first:
+      213: -320393715450397133
+    second: beam_support_girder
+  - first:
+      213: -4599719049534466987
+    second: beam_vertical
+  - first:
+      213: -8347997833677435475
+    second: beam_horizontal
+  - first:
+      213: -7607771903384581385
+    second: beam_vertical_grill
+  - first:
+      213: 2609424340974769428
+    second: beam_horizontal_girll
+  - first:
+      213: -1849476348913163848
+    second: beam_vertical_connection
+  - first:
+      213: 9186906085891786748
+    second: beam_horizontal_connection
+  - first:
+      213: -7346237101547699299
+    second: beam_horizontal_end_left
+  - first:
+      213: -1705176309986426
+    second: beam_vertical_end_top
+  - first:
+      213: -1995798142210775315
+    second: beam_vertical_end_down
+  - first:
+      213: -4305504078848673270
+    second: beam_vertical_end_right
+  - first:
+      213: 1089902429427666588
+    second: beam_square_end
+  - first:
+      213: -2306406465382637709
+    second: small_warning_metal_crate
+  - first:
+      213: 598877407576436084
+    second: dark_bg_girder
+  - first:
+      213: 3013968808405795344
+    second: big_warning_metal_crate
+  - first:
+      213: 3062740798444108598
+    second: wrinkle_pipe_red_light_right_top
+  - first:
+      213: 8602478810112751349
+    second: wrinkle_pipe_red_light_right
+  - first:
+      213: -2080885479616449211
+    second: wrinkle_pipe_red_light_left_top
+  - first:
+      213: -3806990657544784514
+    second: wrinkle_pipe_red_light_left
+  - first:
+      213: 5929005323166346556
+    second: big_pipe_red_light_bottom
+  - first:
+      213: -4002397502868528295
+    second: big_pipe_red_light_bottom_connection
+  - first:
+      213: -2343680370283867215
+    second: red_warning_light_1
+  - first:
+      213: -1400352936726518899
+    second: red_warning_light_3
+  - first:
+      213: -6193767253533339945
+    second: outer_panel_right
+  - first:
+      213: 4029854250552847080
+    second: outer_panel_left
+  - first:
+      213: -8644551987712258661
+    second: outer_panel_right_girder
+  - first:
+      213: -7076093596142800011
+    second: outer_panel_left_grill
+  - first:
+      213: -5969068150296695661
+    second: ladder_mid
+  - first:
+      213: -6059431117532180109
+    second: outer_panel_mid_notch
+  - first:
+      213: 4903087246200794272
+    second: outer_panel_right_girder_bolt
+  - first:
+      213: 4214396068355999091
+    second: outer_panel_left_girder_bolt
+  - first:
+      213: -5277812240075435393
+    second: outer_panel_left_girder
+  - first:
+      213: 4102385771641200272
+    second: ladder_top
+  - first:
+      213: -4618757263005163545
+    second: outer_panel_mid
+  - first:
+      213: 7011974524390545016
+    second: ladder_bottom
+  - first:
+      213: -4841780976320127557
+    second: yellow_platform_bolt
+  - first:
+      213: 5061201922076354170
+    second: small_spikes_down
+  - first:
+      213: 2507016450670516271
+    second: small_spikes_up
+  - first:
+      213: 2662102363951895735
+    second: small_spikes_right
+  - first:
+      213: -4341629254702736034
+    second: small_spikes_left
+  - first:
+      213: -1452279081183550349
+    second: metal_plates_beam_bottom
+  - first:
+      213: -1400352936726518899
+    second: red_warning_light_2
+  - first:
+      213: -7040818832547333041
+    second: bg_panel_7_simple
+  - first:
+      213: 3329434516373795946
+    second: big_plates_ceiling_hatch
+  - first:
+      213: 8193842757469997382
+    second: wire_netting_top
+  - first:
+      213: -3073868521954374090
+    second: wire_netting_mid
+  - first:
+      213: -948316499950121954
+    second: wire_netting_bottom
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: metal_plates_bg_basic
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daff2a9babdc03429989f99407ee6b1
+      internalID: -5546320513583112911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_bg_yellow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf48db7b222152488a5718ec1f5468e
+      internalID: -6810073884907063008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scifi_light_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3791093286aff841b5a0647c63b7c23
+      internalID: 6448286420387580920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_warning
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0c674ba794b5645bef75654e4e909a
+      internalID: 8325762144846493159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_basic
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f450fa43360334a848da56cd42b07f
+      internalID: -7951734585952922562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_grill
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a8f8a3c8efc4e4ba17a4a0d999af8e
+      internalID: -8687812189679211509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864ce363d1ec36e419a0e371a5aa74c6
+      internalID: 4158732434352698325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_fan_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddefde68991665f47bebee34fec31569
+      internalID: -1457998028909188606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_fan_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3e0f56a08e59c419eb2b52bfade5e2
+      internalID: -680340507548848105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_fan_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0ca3f4896e3a24eab4f80464c378d4
+      internalID: 5702101814997779268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c29cecf7b6e93448d6ac6054b78d64
+      internalID: 6623719234781301212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b5a77bf58473242b130bda189d1b95
+      internalID: 4744073622485524861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ceb6a6eff86be4a840685ae970ab35
+      internalID: -8810169383252994586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_door_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a471ed633964334449808c377a78661d
+      internalID: 4026854748136317074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_door_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073304db7a9133442aba0bd1ebb3f6e0
+      internalID: 6209516251378084387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_door_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2726f0882367ebc44a798c0cf668f1af
+      internalID: 4414919513224858275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbling_ooze_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad87a2501f993046b735c21ccb2e732
+      internalID: 1391809162320493855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbling_ooze_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e218f094ca3dcf94a84ed4aca659e722
+      internalID: -3889698853940303438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbling_ooze_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98d1cbc0fbb5124ea6a6a0a8212c838
+      internalID: -2863946839140505516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbling_ooze_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1f6448d8a191a4d8ce73ee3e7d400a
+      internalID: 7770800276852780524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbling_ooze_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a27f77f0db1104da60fe2091561066
+      internalID: 5241546595136715462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbling_ooze_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b61ff04ea27b5e4886acb4045b47029
+      internalID: 2706549334984129446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbling_ooze_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb74aaf39ca32142a58486b561e06d1
+      internalID: -1376925423289048318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbling_ooze_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febf5ec7334678a4b81bdcbc1d045cf2
+      internalID: -7178649327354013745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airlock_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 16
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367e3e6f0f8aee44eb327eeb3c8c918f
+      internalID: -5090346662492113183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airlock_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef1dcc5acca27e449566b10110f0eee
+      internalID: 3333265266024726098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airlock_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c6118bf8c2ad147abe22ee7b610d0f
+      internalID: 3115263445039604264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airlock_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2fdb7e3a4fb2d409811b923fa9dbaf
+      internalID: -7391702403139062741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: airlock_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90d020a9ef982e4ebdf60e07c8f7546
+      internalID: 1684838506320392437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_fan_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 64
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7527c6de688e3144f8c5aac65ffc07cb
+      internalID: 678075873992610140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_fan_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 64
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483f74c805ea4e346af4b163c6a2ff78
+      internalID: -2858394665087965342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_fan_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 64
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d335b3dfc21ff542815f59fa78a5845
+      internalID: -5763336440503447760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_computer_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6fc3aacca90a84f9c7017552c8e12c
+      internalID: 2976641792620575895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_computer_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089da53875f76d24b814cedfca6344dc
+      internalID: 305599715472182535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_computer_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0baddaf3bcff8e4c87a9da6676598fd
+      internalID: -1468713807030091796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_computer_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c0f60c9e9c8d24983043fa94e75afc
+      internalID: -2825593590670202118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_computer_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8653099c75a4f504cb73efa0ed97c452
+      internalID: -8662534564429206595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_computer_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc291ef672edb5a429b866ed41a05da9
+      internalID: -7026716034830632954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedestal_down
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334bbabb0714e2243a7fce8b67b917ca
+      internalID: -3247601881385353152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedestal_up
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43151bac3fc5b2478cf371d7bbc3674
+      internalID: -3597853218386935190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_top_left
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6008c1c4bad0049bf44f3c01b48b6d
+      internalID: 8822916971849066774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695a74688aa71b24aa8317f885378cc8
+      internalID: -8108150426243866377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_bottom_reinforced
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160841d36dd82984888007ba8ef12fb6
+      internalID: -2144155634639191697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_bottom_basic
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab57b39d13b80aa43b098a8b174d85da
+      internalID: 8113913568952603872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_bottom_hatch
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505e3174d8fde2847b66a107c2257c8a
+      internalID: 5535748491036604061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_bottom_panel
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee7f21e8ece714b9881b6be7baa751
+      internalID: 5002530168867311728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161621965f600874488a22ef6ff52a26
+      internalID: 7883822820610943256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_bottom_bolt
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82f4a5277c956d499869435df33fa71
+      internalID: 7132864878025650703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cushioned_wall_shadow_top
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682064aec99af4f44a9caddb8a7d2fb2
+      internalID: -4949231663068893369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cushioned_wall
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4146afcab2269974e874e59b4cc14b1e
+      internalID: 3062831724849935488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_shaft_left
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 48
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eef2731a1c9a24ba6b1577f91a161d
+      internalID: 9022186128613861328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_shaft_middle
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97800d66abab34646827fda0f8deeeb2
+      internalID: -1405058824675106367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_shaft_right
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97c55d23040a364094ad65ba5ac70fd
+      internalID: 8225210900155600520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wrinkled_pipe
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c863a2984f9f71f4eafb29f7324c3bde
+      internalID: 5602006086224802333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wrinkled_pipe_shadow_top
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9eea3b28a0dda4583b0c94ef091f5a
+      internalID: -4450527562155357560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontal_wall_panel_bottom
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85759fc0bad9823439d92308c57eb4b2
+      internalID: -595291804647830535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontal_wall_panel_shadow_top
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a28fab67f32a7e41810a005f154b63c
+      internalID: 6097042308470305335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontal_wall_panel
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e71828cc9d59274a9c37d467cbed219
+      internalID: -7564137628435096013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_platform_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff526485c78e0a48a58c7773d12bedf
+      internalID: -7473537992618875886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_shadow_right
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935e4ba8edd5c4c4aaf3e25f47ea02ff
+      internalID: -3383189667427683628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_pipe_vertical
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e87671b92184645b80f32ea1f85e25
+      internalID: -4398030742714402893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_pipe_horizontal
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2fb145663a0d24d9dfd989f17837b9
+      internalID: 4806719871213727966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_pipe_vertical_connection
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee16c4796594ab4cb7cfa22dcf2fdef
+      internalID: 4172180577576616752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_pipe_right_down
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62ec443346ed8846940003a1bd78a21
+      internalID: 2113938546096224457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_pipe_horizontal_connection
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad787b64007f49245b72fb5986188f12
+      internalID: 9052746203105292307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_pipe_up_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc489c48fa1ccf42b5f61b128ad16a3
+      internalID: -3171323165253602221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_top_reinforced
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5128ac414d718aa49b6a2b583cfe49a8
+      internalID: 4946952605805823956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_top_basic
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7b5f48ad3e55d4fbd5cf6fa23dba51
+      internalID: -6209610354104009324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_top_hatch
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13573bd9ca024f847a87e051bb3bf353
+      internalID: 1180722748131939948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_top_panel
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa12eb1167d8b14c8cdea7204ca5e67
+      internalID: 3707163251335579645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_top_right
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0189f4c9120a2945a89968c574f3aef
+      internalID: -5903240055907832248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_platform_top_bolt
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274b2e1cd8c3cbd4286d173834dd63c5
+      internalID: -2260970484268141370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_platform_shadow_mid
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e914062c40605ca4fb9c0adbe28773aa
+      internalID: 6947902439468698253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_platform_shadow_right
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06ea73532018a245be4133c76f1b479
+      internalID: 3699569109899224962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_window
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217ba4763c45182498e17a1b2a61adff
+      internalID: -2979130889782913674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_text_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 64
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5062178f6ea741b16a8d6e5784ef0
+      internalID: -163695449675300624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_text_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 64
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c7bee7e5eb5e547a502a790b2c98ed
+      internalID: 3916533193374836434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_text_03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 64
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae451bb37dacdd4db969428c234235b
+      internalID: 6701440346454313348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_spotlight
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 64
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa2192da5d16f8429af8977d557f174
+      internalID: 6986330021932096978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_shadow_left
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf9c601a439e374798664ead6016bd3
+      internalID: 4736484087298839518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_beam_straight
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6ae1217d3402f40af3e774c8bf8c8e
+      internalID: 8280462342490658828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_shadow_left_beam
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca59865d573fb1419b8414178f09b91
+      internalID: -2309494570268478940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_shadow_right_beam
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01286b0606063146a28d70030e1931f
+      internalID: 4686660418716664267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_beam_curve_right
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 64
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2488f1e07fc6e6498ab15d52b2af283
+      internalID: 3943624855299984949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_yellow_end_right
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3002cf2acf1f6e94386a04a98ad0194b
+      internalID: -4218575318417147061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_yellow_end_left
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288c99ac868b7724681264b0fb06d81f
+      internalID: -6017155200455978973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wires_fuse_box
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863c114b66f139e4fbae25070efcbf11
+      internalID: -1225032664742934177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wires_horizontal
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610701db4dbf9b84f8cf309dd5d73298
+      internalID: 6400211947384216386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wires_over_bar
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f62e92754a15443af048138fe3df62
+      internalID: -1278352712578573501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wires_right_up
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364f24c5faf4d354193f8dfd790afbfb
+      internalID: 7057017501099488757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wires_vertical
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf79c5995f1fe741aa809afbe0a1cc8
+      internalID: -2287777178036021818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wires_fuse_vertical
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4469b716539614c91d96bb7a6a625a
+      internalID: -923169278755138960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wires_up_left
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f17b52430ff3cc44ba5b57b9f38c898
+      internalID: -3163481166976247069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wires_down_right
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0917adae28264864b95fc9b286bfd0b6
+      internalID: -6042758797752180141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wires_up_right
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd0aefeff2ab36428441a8a74e21434
+      internalID: -4561316065903750727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: support_girder
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826b516d4bf8693419696cbc980f1afc
+      internalID: 6100652598483257758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_pipe_down_left
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940b5313a8687104cb514340a9159880
+      internalID: -875478335371773807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_pipe_right_up
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e80bd327cb37f0449d968070dd6eef8
+      internalID: 4337136203878490915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_left
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460d92ae71fe5394b85bacc3cc0d3ace
+      internalID: -7356674923392697203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_up_left
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce952d3344e67c941a4c290e6ce69fad
+      internalID: 1022654213522740207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_right
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3cf954e6efa7a498c496c0ad626e70
+      internalID: -2021046836187425379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_up_right
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9f38b63000d2d468a2337223197c7c
+      internalID: 7500800794874738204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_down_left
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c438e1ed3a2e24684b60bb2f8ed164
+      internalID: -451952740526168478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_down_right
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4c5a5486949e845b916302df9e1958
+      internalID: 8253184252449298263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_ceiling
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1392c946ba56eed4abbe281bad426547
+      internalID: 6830297732148631828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_floor_hatch
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48b353a3419e104598b7a4d88378e5d
+      internalID: 3709065486553676361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_inner_up_right
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada5aa97c65ead84eb98800e2c86866b
+      internalID: 4281576457732230862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_inner_up_left
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 96
+        width: 48
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f857a2073d5d914448ce81b3a238162d
+      internalID: 7933984963004145189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_end_left
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378f69b3bb85a72488dcc5bb817eb865
+      internalID: 6289455425467120167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_end_right
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e01de07c6a5be4483442665ba32415
+      internalID: -7985430405366465289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_floor
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74ff27a85e55af45b9d06b700e71a6c
+      internalID: -1710573012036843113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_notch_left
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 128
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09b45fd98f658d4287041ecaea52165
+      internalID: 8847292001813745925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_notch_right
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410c4c36cc7507f43aa4c7722d5cb93e
+      internalID: -3141203518470568480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_low_floor
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a14888204032ee4db8a19bc44800289
+      internalID: -5959567782167053401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_left_hatch
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041235a4f52012349aa56523c4ec0daa
+      internalID: -7075901552430055054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_end_right_straight
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 128
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95869bfca99260442b99c9fc10eb800d
+      internalID: -6757290581146940883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_end_left_straight
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 96
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1026a1431fc9ea74886798f5f67ab6b9
+      internalID: 1063265263218317422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_bg_plate_top_shadow
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 48
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a278ddfd741df4bbd52a0f8b35d32f
+      internalID: 5088427556760590264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_bg_plate
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 48
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d7e4bb5c4ede3449be7b5f736a6fe9
+      internalID: 3320636587424477394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_bg_plate_tall_grill
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 48
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a647ccb9c927a48ab1d7137bf9afa8
+      internalID: -4765261273540780761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_plates_narrow
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ef3dd2dd3ea9843a6faab7c4ce6977
+      internalID: -5748329996058284165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wires_fuse_horizontal
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30501f774639c9c47ab2d6034855363e
+      internalID: -7626357260700294229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_panel_1_wires
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495f648215ec2db4b9b5bf231507d8b6
+      internalID: -943166620297107248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_panel_2_text
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 32
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0241fa90b1e747749a669e8fa9b15c4f
+      internalID: -4910126863438575475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_panel_3_plain
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28a682251007aa4b8c6f4ddf5277c43
+      internalID: -6453233266386450674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_panel_4_text
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3e7b1cd2596f54193fc1fc7bf21787
+      internalID: 5789553365369119348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_panel_5_grill
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d8ec41ce171c44ea794029359a7f35
+      internalID: -4760039527363122694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_bg_top
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe4b6845d672a84ea7777a3c885c074
+      internalID: -650021539220894728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_bg_mid
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33b8892ee405cf48a0b620de16fad74
+      internalID: 5196141984461721006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_bg_bottom
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1b855e6d6fd6449927d5d1d3e74185
+      internalID: -4464263161504553692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_platfrom_left
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c182ebea0c750d47a4db5e2b9c58842
+      internalID: -720927306338366174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_platfrom_mid
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6219e2cb6f7081e4b8971b79c91ac13c
+      internalID: -3385223599926568502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator_platfrom_right
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4e5a6331c8f934c90a01638e030102
+      internalID: 7636977563156222583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_floor
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f631faf52ecf8f41bfc8fd44a95d73e
+      internalID: -4477968753815068039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chrome_cylinder_horizontal
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3345ae0df41f56948ab5147850cd84e7
+      internalID: -5914823614877382583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chrome_cylinder_vertical
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e0f57fcd29d4c41b490efde1ebcb04
+      internalID: -1776691655353223530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_warning
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f4899925029604f927277319849ef8
+      internalID: -2794901401301559387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: press_right_mid
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2737fabaeb3f0438fa35646f091783
+      internalID: -3022308467068854035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: press_right_top
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2affcb42295e854429ea0e7d032b45e7
+      internalID: 6955654269383975161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: press_right_bottom
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acb3a8fd28b79742b546854d902a968
+      internalID: 1388767449265012027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: press_left_mid
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68788e96b9cbfb34ab87e7380dd64044
+      internalID: -4460921463912766329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: press_left_top
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93397312ba8f46c4b802f404ed7d8d2b
+      internalID: 1905490344664037202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: press_left_bottom
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545aceabd6bf63341ae9be94dcf3831b
+      internalID: -245026209789437209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_panel_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fef64e686b5c94a8e91cf0a6c7b737
+      internalID: -3034524746365259005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: double_pipes_horizontal
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dbb562c0c3cb04eb73d628e6a9402e
+      internalID: -4881442137907105852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: double_pipes_vertical_connection
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289b008c3872a3f4e84cb6db8e4f83dc
+      internalID: 1659558676859525675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: double_pipes_t_down
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da681916a470a7f4cb7d6d5e618c9bc4
+      internalID: -4969890183722964782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: double_pipes_vertical
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1694a9b5284ef44a8563694fc5d4b6
+      internalID: -8749823017929495799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: double_pipes_t_up
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8769da9390605014ab4de63c9781d82c
+      internalID: -673832212940443659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_pipe_t_down_double
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24880e42941633d4dbd28098727d8a40
+      internalID: 40574200140874832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: double_pipes_horizontal_connection
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022b601f935b355478190a0f1e462bf6
+      internalID: 2996992623220334846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_support_girder
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cf38f29d3bd3c458053d5005a3ceee
+      internalID: -320393715450397133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_vertical
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64060968bff137b4191ab62025425a79
+      internalID: -4599719049534466987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_horizontal
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9fb3047a86c0948bfc0f283274fb31
+      internalID: -8347997833677435475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_vertical_grill
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad40f4021019fb4389c2e4506e24970
+      internalID: -7607771903384581385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_horizontal_girll
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca75848441ecea4d979a0a1cae0bc2a
+      internalID: 2609424340974769428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_vertical_connection
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbadbb6e57978248817b8f66e364b08
+      internalID: -1849476348913163848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_horizontal_connection
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70765d2c42df2a408c9c6379aa083f8
+      internalID: 9186906085891786748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_horizontal_end_left
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb30b891209aa6e4f99b2737a474a9a7
+      internalID: -7346237101547699299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_vertical_end_top
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b9a17ca975a5b4890242a666ab19f8
+      internalID: -1705176309986426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_vertical_end_down
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6838f9039d4564daa7d861e1476083
+      internalID: -1995798142210775315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_vertical_end_right
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46197742341534049a3c2afbfffaca88
+      internalID: -4305504078848673270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam_square_end
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfa0ede5b6636d44837b9fd1b564d37
+      internalID: 1089902429427666588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_warning_metal_crate
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad51f81ec3449b6468877f9c33ce30b3
+      internalID: -2306406465382637709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_bg_girder
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e76fb73f2e52b8418847ebd1cda8d4f
+      internalID: 598877407576436084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_warning_metal_crate
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07a8f2b8d0492a40b76f1517db73f84
+      internalID: 3013968808405795344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wrinkle_pipe_red_light_right_top
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ab56df9c7985e4e9e4a15ff4dae77c
+      internalID: 3062740798444108598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wrinkle_pipe_red_light_right
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3164ea3a8957ca94c92b72b5c0b06f8e
+      internalID: 8602478810112751349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wrinkle_pipe_red_light_left_top
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1316bb7a65b4544ca71323dc9bdb1eb
+      internalID: -2080885479616449211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wrinkle_pipe_red_light_left
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a46d76158bb44d973a68bf612003f
+      internalID: -3806990657544784514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_pipe_red_light_bottom
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d980ef323c034c4f8be25b7c6a5e14b
+      internalID: 5929005323166346556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_pipe_red_light_bottom_connection
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e42a8eb16543847948a2850e4b0931
+      internalID: -4002397502868528295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outer_panel_right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f6b3fd51fb2e548b922cafbd173f94
+      internalID: -6193767253533339945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outer_panel_left
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd51eef0236d7f4aadd8162c44d394a
+      internalID: 4029854250552847080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outer_panel_right_girder
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d25d11250dd114a9dafc9afbd233dd
+      internalID: -8644551987712258661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outer_panel_left_grill
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcad07464fcce4498318dd395f919f7
+      internalID: -7076093596142800011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladder_mid
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aecafa9aaa8e04c9222dc71187aea4
+      internalID: -5969068150296695661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outer_panel_mid_notch
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3b6ad3810c882439ca65807aa8d531
+      internalID: -6059431117532180109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outer_panel_right_girder_bolt
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c6f5727a41ee04f8f0c34facc16901
+      internalID: 4903087246200794272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outer_panel_left_girder_bolt
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573ae13c0be8ae5408f7bab759f62c3b
+      internalID: 4214396068355999091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outer_panel_left_girder
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9def0416032a4499df33f555a4be2d
+      internalID: -5277812240075435393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladder_top
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cb197339c3f1948864b980c732ed4f
+      internalID: 4102385771641200272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: outer_panel_mid
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5ae800ba3116a46873ed0e42b43141
+      internalID: -4618757263005163545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ladder_bottom
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd20c91f43dc90488966eb577c1dfbc
+      internalID: 7011974524390545016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_platform_bolt
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cd57e61f10c024c9ee7c5f83ecab55
+      internalID: -4841780976320127557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_spikes_down
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 232
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13861ae94ef82cf469afe5875e020a8f
+      internalID: 5061201922076354170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_spikes_up
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8191dba894ec2f64ab5a6a37c4c16f9b
+      internalID: 2507016450670516271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_spikes_right
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc74769a70a4cf46bc30cc2d85e89bb
+      internalID: 2662102363951895735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_spikes_left
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14668f11989029d419d56096216eca8b
+      internalID: -4341629254702736034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal_plates_beam_bottom
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7910fa430c5ae4887916bc4c5c9d25
+      internalID: -1452279081183550349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_panel_7_simple
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6e591424699a34cb072e664f21da21
+      internalID: -7040818832547333041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_plates_ceiling_hatch
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f099c3ca12867a4e88b9f5dcec5fda5
+      internalID: 3329434516373795946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wire_netting_top
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f74c5cad729dd4d8f5299f83a442d8
+      internalID: 8193842757469997382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wire_netting_mid
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f1bf4a35c256d48a24542c08b7808a
+      internalID: -3073868521954374090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wire_netting_bottom
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df700b5b12ee1e94e88936055fbfa5d4
+      internalID: -948316499950121954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f56b027583c9f944c89b1dc44eb21a16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wires_fuse_horizontal: -7626357260700294229
+      floor_computer_1: 2976641792620575895
+      wrinkle_pipe_red_light_right_top: 3062740798444108598
+      dark_plates_narrow: -5748329996058284165
+      big_plates_down_left: -451952740526168478
+      big_plates_up_right: 7500800794874738204
+      metal_platform_bottom_left: -8108150426243866377
+      metal_platform_bottom_bolt: 7132864878025650703
+      wires_up_right: -4561316065903750727
+      elevator_door_1: 4026854748136317074
+      floor_computer_6: -7026716034830632954
+      horizontal_wall_panel: -7564137628435096013
+      metal_platform_top_basic: -6209610354104009324
+      beam_square_end: 1089902429427666588
+      big_warning_metal_crate: 3013968808405795344
+      bg_panel_5_grill: -4760039527363122694
+      wrinkle_pipe_red_light_left: -3806990657544784514
+      outer_panel_right_girder: -8644551987712258661
+      outer_panel_left_grill: -7076093596142800011
+      bg_panel_4_text: 5789553365369119348
+      metal_platform_grill: -8687812189679211509
+      support_girder: 6100652598483257758
+      big_plates_ceiling_hatch: 3329434516373795946
+      door_2: 4744073622485524861
+      press_right_top: 6955654269383975161
+      dark_bg_girder: 598877407576436084
+      elevator_door_2: 6209516251378084387
+      bg_panel_2_text: -4910126863438575475
+      big_plates_low_floor: -5959567782167053401
+      elevator_bg_bottom: -4464263161504553692
+      outer_panel_right: -6193767253533339945
+      beam_vertical_end_top: -1705176309986426
+      big_plates_left_hatch: -7075901552430055054
+      horizontal_wall_panel_shadow_top: 6097042308470305335
+      outer_panel_left_girder_bolt: 4214396068355999091
+      double_pipes_horizontal: -4881442137907105852
+      beam_horizontal_girll: 2609424340974769428
+      wire_netting_bottom: -948316499950121954
+      dark_bg_plate: 3320636587424477394
+      outer_panel_left_girder: -5277812240075435393
+      metal_plates_shadow_left_beam: -2309494570268478940
+      big_plates_inner_up_left: 7933984963004145189
+      metal_plates_yellow_end_left: -6017155200455978973
+      wires_fuse_vertical: -923169278755138960
+      small_spikes_left: -4341629254702736034
+      beam_vertical_end_right: -4305504078848673270
+      floor_warning: -2794901401301559387
+      door_3: -8810169383252994586
+      big_pipe_right_down: 2113938546096224457
+      metal_platform_bottom_hatch: 5535748491036604061
+      floor_computer_2: 305599715472182535
+      double_pipes_horizontal_connection: 2996992623220334846
+      small_fan_3: -5763336440503447760
+      small_spikes_right: 2662102363951895735
+      big_plates_left: -7356674923392697203
+      big_pipe_red_light_bottom: 5929005323166346556
+      wrinkled_pipe: 5602006086224802333
+      bg_panel_3_plain: -6453233266386450674
+      airlock_2: -7391702403139062741
+      airlock_4: 3333265266024726098
+      metal_platform_basic: -7951734585952922562
+      press_right_bottom: 1388767449265012027
+      big_plates_end_right_straight: -6757290581146940883
+      beam_vertical_end_down: -1995798142210775315
+      metal_platform_bottom_panel: 5002530168867311728
+      metal_plates_yellow_end_right: -4218575318417147061
+      metal_plates_shadow_right: -3383189667427683628
+      cushioned_wall: 3062831724849935488
+      big_pipe_vertical_connection: 4172180577576616752
+      small_spikes_up: 2507016450670516271
+      checkered_floor: -4477968753815068039
+      big_plates_notch_left: 8847292001813745925
+      bubbling_ooze_3: -2863946839140505516
+      big_plates_end_right: -7985430405366465289
+      metal_platform_bottom_basic: 8113913568952603872
+      dark_bg_plate_tall_grill: -4765261273540780761
+      metal_platform_top_left: 8822916971849066774
+      metal_platform_top_panel: 3707163251335579645
+      double_pipes_t_up: -673832212940443659
+      wire_netting_top: 8193842757469997382
+      outer_panel_mid: -4618757263005163545
+      metal_plates_beam_straight: 8280462342490658828
+      yellow_platform_bolt: -4841780976320127557
+      big_plates_end_left: 6289455425467120167
+      floor_computer_5: -8662534564429206595
+      wires_horizontal: 6400211947384216386
+      chrome_cylinder_vertical: -1776691655353223530
+      horizontal_wall_panel_bottom: -595291804647830535
+      bubbling_ooze_8: -7178649327354013745
+      elevator_shaft_right: 8225210900155600520
+      metal_platform_bottom_reinforced: -2144155634639191697
+      wires_down_right: -6042758797752180141
+      door_1: 6623719234781301212
+      dark_bg_plate_top_shadow: 5088427556760590264
+      pedestal_down: -3247601881385353152
+      big_pipe_vertical: -4398030742714402893
+      cushioned_wall_shadow_top: -4949231663068893369
+      elevator_platfrom_right: 7636977563156222583
+      big_pipe_red_light_bottom_connection: -4002397502868528295
+      metal_plates_platform_shadow_left: -7473537992618875886
+      metal_platform_top_bolt: -2260970484268141370
+      beam_horizontal_connection: 9186906085891786748
+      big_fan_2: -680340507548848105
+      double_pipes_t_down: -4969890183722964782
+      outer_panel_left: 4029854250552847080
+      metal_plates_text_02: 3916533193374836434
+      big_pipe_right_up: 4337136203878490915
+      big_fan_3: 5702101814997779268
+      wires_vertical: -2287777178036021818
+      floor_computer_4: -2825593590670202118
+      big_plates_notch_right: -3141203518470568480
+      beam_horizontal_end_left: -7346237101547699299
+      big_plates_floor_hatch: 3709065486553676361
+      metal_platform_top_right: -5903240055907832248
+      bubbling_ooze_5: 5241546595136715462
+      double_pipes_vertical: -8749823017929495799
+      metal_platform_top_hatch: 1180722748131939948
+      elevator_platfrom_mid: -3385223599926568502
+      wrinkle_pipe_red_light_right: 8602478810112751349
+      wrinkled_pipe_shadow_top: -4450527562155357560
+      big_plates_ceiling: 6830297732148631828
+      metal_plates_platform_shadow_right: 3699569109899224962
+      ladder_mid: -5969068150296695661
+      bubbling_ooze_2: -3889698853940303438
+      airlock_1: 1684838506320392437
+      big_plates_end_left_straight: 1063265263218317422
+      metal_platform_bottom_right: 7883822820610943256
+      metal_plates_window: -2979130889782913674
+      wrinkle_pipe_red_light_left_top: -2080885479616449211
+      wires_up_left: -3163481166976247069
+      press_left_top: 1905490344664037202
+      bubbling_ooze_7: -1376925423289048318
+      metal_plates_shadow_right_beam: 4686660418716664267
+      elevator_bg_top: -650021539220894728
+      big_plates_floor: -1710573012036843113
+      metal_plates_text_03: 6701440346454313348
+      beam_support_girder: -320393715450397133
+      outer_panel_mid_notch: -6059431117532180109
+      press_left_mid: -4460921463912766329
+      small_fan_2: -2858394665087965342
+      elevator_shaft_middle: -1405058824675106367
+      bg_panel_6: -3034524746365259005
+      metal_plates_platform_shadow_mid: 6947902439468698253
+      bg_panel_1_wires: -943166620297107248
+      elevator_platfrom_left: -720927306338366174
+      beam_vertical: -4599719049534466987
+      metal_plates_bg_basic: -5546320513583112911
+      metal_plates_bg_yellow: -6810073884907063008
+      chrome_cylinder_horizontal: -5914823614877382583
+      wire_netting_mid: -3073868521954374090
+      airlock_3: 3115263445039604264
+      elevator_shaft_left: 9022186128613861328
+      big_plates_right: -2021046836187425379
+      bubbling_ooze_1: 1391809162320493855
+      floor_computer_3: -1468713807030091796
+      metal_plates_spotlight: 6986330021932096978
+      big_pipe_up_left: -3171323165253602221
+      scifi_light_1: 6448286420387580920
+      metal_plates_text_01: -163695449675300624
+      big_plates_down_right: 8253184252449298263
+      bubbling_ooze_4: 7770800276852780524
+      airlock_5: -5090346662492113183
+      beam_vertical_connection: -1849476348913163848
+      big_pipe_down_left: -875478335371773807
+      metal_platform_top_reinforced: 4946952605805823956
+      small_spikes_down: 5061201922076354170
+      ladder_top: 4102385771641200272
+      elevator_bg_mid: 5196141984461721006
+      metal_platform_warning: 8325762144846493159
+      big_pipe_horizontal_connection: 9052746203105292307
+      metal_plates_beam_curve_right: 3943624855299984949
+      small_fan_1: 678075873992610140
+      press_right_mid: -3022308467068854035
+      big_plates_inner_up_right: 4281576457732230862
+      pedestal_up: -3597853218386935190
+      wires_over_bar: -1278352712578573501
+      big_pipe_t_down_double: 40574200140874832
+      ladder_bottom: 7011974524390545016
+      beam_vertical_grill: -7607771903384581385
+      big_pipe_horizontal: 4806719871213727966
+      small_warning_metal_crate: -2306406465382637709
+      big_plates_up_left: 1022654213522740207
+      big_fan_1: -1457998028909188606
+      floor_1: 4158732434352698325
+      wires_fuse_box: -1225032664742934177
+      bubbling_ooze_6: 2706549334984129446
+      metal_plates_shadow_left: 4736484087298839518
+      press_left_bottom: -245026209789437209
+      beam_horizontal: -8347997833677435475
+      elevator_door_3: 4414919513224858275
+      double_pipes_vertical_connection: 1659558676859525675
+      metal_plates_beam_bottom: -1452279081183550349
+      outer_panel_right_girder_bolt: 4903087246200794272
+      bg_panel_7_simple: -7040818832547333041
+      wires_right_up: 7057017501099488757
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
