@@ -296,6 +296,90 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Eye_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d5eb5eabcacba439671d98861ad960
+      internalID: -2006589877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_Awake_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972f6aa26c571e14da6e7dd43c3a2990
+      internalID: 1984366561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_Awake_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937a97fed8da44d4e892280402618dc6
+      internalID: -1585146194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_Dead
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f2749742461304cb787d07ee694b25
+      internalID: 852311854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -309,10 +393,14 @@ TextureImporter:
     nameFileIdTable:
       Kiwi_walk_2: -8206927765657472288
       Strawberry_walk_1: -6981730576905158423
+      Eye_Awake_2: -1585146194
+      Eye_Dead: 852311854
+      Eye_Awake_1: 1984366561
       Kiwi_die: 4386481625352232374
       Kiwi_walk_1_idle: -5252273074350259373
       Strawberry_die: 4604872756393671162
       Strawberry_walk_2: -7818858724871692368
+      Eye_Idle: -2006589877
       Strawberry_idle: 2072802421386473744
   spritePackingTag: 
   pSDRemoveMatte: 0
